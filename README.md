@@ -15,6 +15,7 @@ Pour comprendre comment cela fonctionne, imaginez qu’un ami organise un moment
 - La tarte est un succès ! Ils vous demandent la recette que vous leur fournissez (voir)
 - Un ami, Alex, qui est chef pâtissier, suggère de réduire le sucre (modifier)
 - Une autre amie, Lisa, demande à l’utiliser pour un dîner la semaine prochaine (distribuer)
+
 Par comparaison, un processus de source fermée serait de se rendre dans un restaurant et commander une tranche de tarte aux cerises. Vous devez payer un prix pour manger la tarte, et le restaurant ne vous donnera probablement pas leur recette. Si vous avez copié leur tarte exactement et l’avez vendue sous votre propre nom, le restaurant pourrait même prendre des mesures légales contre vous.
 
 ## Comment contribuer
