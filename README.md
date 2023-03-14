@@ -1,3 +1,5 @@
+![logo simplex](/ressources/logos/simplex_logo_500x500.png)
+
 # simplex
 
 simplex est un cadre méthodologique d'accompagnement d'organisation.
