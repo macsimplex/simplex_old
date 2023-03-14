@@ -1,4 +1,4 @@
-![logo simplex](/ressources/logos/simplex_logo_500x500.png)
+![logo simplex](/ressources/logos/simplex_logo_200x200.png)
 
 # simplex
 
