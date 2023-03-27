@@ -1,12 +1,12 @@
 # Bienvenue
 
 Notre vision du monde nous amène à :
-- Formuler des [postulats](##Postulats) sur lesquels notre réflexion se base,
-- Décrypter les [actualités](##Actualités) telles que nous le voyons,
-- Développer notre sensibilité à l'[écologie](##Ecologie),
-- Définir, sensibiliser et mettre en place des mesure d'[hygiène](##Hygiène).
+- Formuler des [postulats](#Postulats) sur lesquels notre réflexion se base,
+- Décrypter les [actualités](#Actualités) telles que nous le voyons,
+- Développer notre sensibilité à l'[écologie](#Ecologie),
+- Définir, sensibiliser et mettre en place des mesure d'[hygiène](#Hygiène).
 
-Notre développons une vison de la [biologie des organisations](#Biologie-des-organisations) à laquelle [*simplex*](#simplex) tente de répondre.
+Notre développons une vison de la [biologie des organisations](Biologie-des-organisations) à laquelle [*simplex*](simplex) tente de répondre.
 
 ## Postulats
 L'ensemble de ce document se basent sur les postulats suivants :
