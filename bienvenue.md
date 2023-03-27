@@ -1,12 +1,12 @@
 # Bienvenue
 
-Notre vision du monde nous amène à :
+Pour démarrer avec *simplex*, nous tenons dans un premier temps à vous partager notre vision du monde qui nous amène à :
 - Formuler des [postulats](#postulats) sur lesquels notre réflexion se base,
 - Décrypter les [actualités](#actualités) telles que nous le voyons,
 - Développer notre sensibilité à l'[écologie](#ecologie),
 - Définir, sensibiliser et mettre en place des mesure d'[hygiène](#hygiène).
 
-Notre développons une vison de la [biologie des organisations](Biologie-des-organisations) à laquelle [*simplex*](simplex) tente de répondre.
+Notre développons une vison de la [biologie des organisations](/biologie.md) à laquelle [*simplex*](/simplex.md) tente de répondre.
 
 ## Postulats
 L'ensemble de ce document se basent sur les postulats suivants :
