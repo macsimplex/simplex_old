@@ -14,6 +14,7 @@ Autre tentative, plus concise :
 
 > Une organisation étant un être moral vivant (et non pas une machine), *simplex* vise à lui insufluer la capacité du monde vivant à [évoluer](https://fr.wikipedia.org/wiki/%C3%89volution_(biologie)) et à s'adapter à son environnement.
 
+- [simplex](/simplex.md)
 - [simplex in a nutshell](/simplex_in_a_nutshell.pdf)
 - [présentation simplex](/simplex_presentation.pdf)
 
