@@ -1,16 +1,16 @@
 # Biologie des organisations
 
-- [Vivre](#Vivre) : Un organisation est un être moral vivant dans un environnement complexe en perpétuel changement.
-- [Evoluer](#Evoluer) : Un être vivant s'adapte en permanence pour survivre et se développer.
-- [Changer](#Changer) : Envisager différentes hypothèses et valider (indicateurs) leur valeur ajoutée avant de les intégrer dans ses muscles ou dans ses gênes.
-- [Grandir](#Grandir) : Aligner pensées (tête), envies (coeur) et muscles (corps) pour des actions coordonnées qui servent une ambition désirée.
-- [Coexister](#Coexister) : Les êtres vivants interagissent entre eux et avec leur environnement.
+- [Vivre](#vivre) : Un organisation est un être moral vivant dans un environnement complexe en perpétuel changement.
+- [Evoluer](#evoluer) : Un être vivant s'adapte en permanence pour survivre et se développer.
+- [Changer](#changer) : Envisager différentes hypothèses et valider (indicateurs) leur valeur ajoutée avant de les intégrer dans ses muscles ou dans ses gênes.
+- [Grandir](#grandir) : Aligner pensées (tête), envies (coeur) et muscles (corps) pour des actions coordonnées qui servent une ambition désirée.
+- [Coexister](#coexister) : Les êtres vivants interagissent entre eux et avec leur environnement.
 
 ## Vivre
 ## Evoluer
 ## Changer
 ## Grandir
-## Ensemble
+## Coexister
 
 ## La fragilité est une force
 
