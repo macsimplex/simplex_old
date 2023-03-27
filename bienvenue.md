@@ -51,4 +51,4 @@ Nous militons pour une **hygiène professionnelle des organisations** et leurs a
 Nous militons pour une **congruence écologique des organisations** avec leur environnement.
 
 
-[^1] Soi Génératif : Le voyage du héros par Stephen Gilligan et Robert Dilts 
+[^1]: Le voyage du héros par Stephen Gilligan et Robert Dilts 
