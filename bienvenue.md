@@ -39,7 +39,7 @@ Nous considérons les personnes, les organisations et l'environnement dans leque
 Nous prenons une approche [écologique](https://fr.wikipedia.org/wiki/%C3%89cologie) et [systémique](https://fr.wikipedia.org/wiki/Syst%C3%A9mique) du monde professionnel.
 
 ## Hygiène
-L'énergie que nous mettons dans nos actions et l'impact que nous créons est issue de l'alignement de nos pensées, notre ressenti et nos actions (alignement "Tête / Coeur / Corps" ou "[^Soi Génératif]").<br>
+L'énergie que nous mettons dans nos actions et l'impact que nous créons est issue de l'alignement de nos pensées, notre ressenti et nos actions (alignement "Tête / Coeur / Corps" ou "Soi Génératif[^1]").<br>
 Tout désalignement réduit voire bloque la motivation, l'envie, le "flux d'énergie" à être proactif et mener des actions, génère fatigue et frustration, favorise l'apparition de "troubles" et limite l'impact.
 
 Des mesures individuelles et collectives sont définies pour aligner nos pensées, notre ressenti et nos actions afin de nous prémunir des "attaques" ou aléas de l'environnement et du temps générant désagréments et souffrances :
@@ -51,4 +51,4 @@ Nous militons pour une **hygiène professionnelle des organisations** et leurs a
 Nous militons pour une **congruence écologique des organisations** avec leur environnement.
 
 
-[^Soi Génératif]: Le voyage du héros par Stephen Gilligan et Robert Dilts 
+[^1] Soi Génératif : Le voyage du héros par Stephen Gilligan et Robert Dilts 
