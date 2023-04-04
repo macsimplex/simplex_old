@@ -4,7 +4,7 @@
 
 > *"Le conformisme est le geôlier de la liberté et l'ennemi de l'épanouissement."* John Fitzgerald Kennedy
 
-*simplex* est une "pratique d'accompagnement". Poser des mots pour tenter de la définir en réduit le sens car elle prend forme dans son incarnation dans la réalité, dans l'évolution qu'elle génère, subit et absorbe.
+*simplex* est une "pratique d'accompagnement". Poser des mots pour tenter de la définir en réduit le sens car elle prend forme et sens dans son incarnation dans la réalité, dans l'évolution qu'elle génère, subit et absorbe.
 
 Voici toutefois une tentative : 
 
@@ -12,7 +12,7 @@ Voici toutefois une tentative :
 
 Autre tentative, plus concise :
 
-> Une organisation étant un être moral vivant (et non pas une machine), *simplex* vise à lui insufluer la capacité du monde vivant à évoluer et à s'adapter à son environnement.
+> *simplex* vise à insufluer aux organisations, personnes morales vivantes, la capacité du monde vivant à évoluer et à s'adapter à leur environnement.
 
 Pour démarrer avec *simplex*, nous vous souhaitons la [**bienvenue**](/bienvenue.md).
 
