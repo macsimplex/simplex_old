@@ -16,7 +16,7 @@ Un être vivant est constamment sollicité par son environnement
 <!-- <-- Chaque point sera repris dans le document simplex en présentant les propositions  -->
 
 - Une organisation [vis](#vivre) dans un environnement en perpétuel changement.
-- Elle [évolue](#evolution) dans son environnement en se comportant en fonction de sa perception du monde qui l'entoure.
+- Elle [évolue](#evoluer) dans son environnement en se comportant en fonction de sa perception du monde qui l'entoure.
 - Pour rester en vie, elle s'[adapte](#adapter) en identifiant ses alliés et des stratégies.
 - Elle exprime son potentiel et [grandit](#grandir) par changements successifs en se positionnant dans les conditions favorables à son développement. 
 - A chaque période de sa vie, elle [agit](#agir) pour concrétiser les opportunités qu'elle a identifiées selon le contexte du moment. 
@@ -33,6 +33,8 @@ En prenant conscience et en acceptant l'impermanence (tout est sujet à évoluti
 
 ### Evolution
 > "La conscience est la dernière et la plus tardive évolution de la vie organique, et par conséquent ce qu'il y a de moins accompli et de plus fragile en elle." Friedrich Nietzsche
+
+![Evolution technologique](/resources/images/evolution_1.jpg)
 
 ### Incertitude
 
@@ -91,7 +93,7 @@ Pour inciter l'évolution de comportement, un dirigeant ou un manager peut influ
 ## Adapter
 Pour continuer à jouer dans le [jeu infini](#posture), une organisation a besoin de d'adapter en permanence à l'ensemble des éléments changeant qui constituent de son environnement. 
 
-Elle a besoin d'identifier ses [alliés](#influence) (internes et externes) et définir des stratégies pour mener les actions les plus pertinentes de manière efficace : évaluer les [bénéfices](#forces) et [les facteurs de réussite](#resistance) de leur concrétisation. Elle envisage différentes hypothèses et valider leur valeur ajoutée avant de les [diffuser](#diffusion), de les intégrer dans ses muscles ou dans ses gênes.
+Elle a besoin d'identifier ses [alliés](#influence) (internes et externes) et définir des stratégies pour mener les actions les plus pertinentes de manière efficace : évaluer les [bénéfices](#forces) et [les facteurs de réussite](#résistance) de leur concrétisation. Elle envisage différentes hypothèses et valider leur valeur ajoutée avant de les [diffuser](#diffusion), de les intégrer dans ses muscles ou dans ses gênes.
 
 Pour être efficace et mener l'ensemble des actions de manière coordonnées, un [cadre](#cadre) est nécessaire, notamment pour [distribuer](#délégation) les rôles et responsabilités aux différents organes.
 

@@ -7,6 +7,11 @@ Focus sur simplex en reprenant chacun des éléments développés dans la biolog
 
 ## Cadre
 
+### Organisation vivante
+
+### Organisation entreprenante
+Entreprendre = Prendre ensemble, se saisir ensemble une vision et la décliner.
+
 Faire le lien avec chaque item de biologie
 Proposer un auto-coaching associé
 Reprendre la proposition et répondre à une adaptation de l'organisation
