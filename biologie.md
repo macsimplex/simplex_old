@@ -34,7 +34,7 @@ En prenant conscience et en acceptant l'impermanence (tout est sujet à évoluti
 ### Evolution
 > "La conscience est la dernière et la plus tardive évolution de la vie organique, et par conséquent ce qu'il y a de moins accompli et de plus fragile en elle." Friedrich Nietzsche
 
-![Evolution technologique](/resources/images/evolution_1.jpg)
+![Evolution technologique](/ressources/images/evolution_1.jpg)
 
 ### Incertitude
 
