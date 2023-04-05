@@ -44,9 +44,17 @@ En prenant conscience et en acceptant l'impermanence (tout est sujet à évoluti
   - Comment vous en serviez-vous ?
   - Combien de temps l'utilisiez-vous chaque jour ?
 - Combien d'année séparent ces 2 téléphones ?
-  - Savez-vous dater la date de chacun d'entre eux ?
+  - Savez-vous évaluer la date et la durée de vie de chacun d'entre eux ?
 
-![Photo de Shubham Sharan sur Unsplash](https://unsplash.com/fr/photos/Z-fq3wBVfMU)
+![Photo de Shubham Sharan sur Unsplash](https://github.com/macsimplex/simplex/blob/main/ressources/images/shubham-sharan-Z-fq3wBVfMU-unsplash.jpg)
+
+Selon vous, en quelle année cette photo a-t-elle été prise ? 1980 ? 2000 ? 2020 ?[^1]<br>
+Dans la mesure où nous avons fait des études supérieures, nous avons avons vécu cette scène, quelque soit notre âge[^2].
+
+Nos pratiques collectives évoluent moins vite que les technologies : 
+- Les technologies émergent et génèrent des potentiels.
+- Les usages s'imaginent et se construisent autour d'elles.
+- Nos pratiques collectives s'adaptent à nos usages.
 
 ### Incertitude
 
@@ -287,3 +295,6 @@ L'identité et l'existence requiert un flux d'informations :
 
 ## En une phrase
 Pour vivre, un système vivant tel qu'une organisation requiert une hygiène de vie pour rester en vie et se développer : connectée avec l'ensemble des parties prenantes de son écosystème, elle interagit avec elles en posture apprenante pour définir et valoriser son existence tout en participant à la survie du système global dans lequel elle évolue.
+
+[^1]: Il y a un indice : un étudiant semble tenir dans sa main ce qui ressemble à un Apple Pencil, ce qui laisse à penser que la photo doit être relativement récente. En effet, elle date du 21 juin 2019, prise à Ottawa (https://unsplash.com/fr/photos/Z-fq3wBVfMU).
+[^2]: Nous vous invitons à regarder la vidéo YouTube "Je viens juste de poursuivre le système scolaire en justice !!!" de [Prince EA](https://www.youtube.com/@PrinceEa) : https://youtu.be/dqTTojTija8 
