@@ -44,6 +44,9 @@ En prenant conscience et en acceptant l'impermanence (tout est sujet à évoluti
   - Comment vous en serviez-vous ?
   - Combien de temps l'utilisiez-vous chaque jour ?
 - Combien d'année séparent ces 2 téléphones ?
+  - Savez-vous dater la date de chacun d'entre eux ?
+
+![Photo de Shubham Sharan sur Unsplash](https://github.com/macsimplex/simplex/blob/main/ressources/images/shubham-sharan-Z-fq3wBVfMU-unsplash.jpg)
 
 ### Incertitude
 
