@@ -34,7 +34,16 @@ En prenant conscience et en acceptant l'impermanence (tout est sujet à évoluti
 ### Evolution
 > "La conscience est la dernière et la plus tardive évolution de la vie organique, et par conséquent ce qu'il y a de moins accompli et de plus fragile en elle." Friedrich Nietzsche
 
-![Evolution technologique](/ressources/images/evolution_1.jpg =500x)
+#### Evolution technologique
+![Evolution Technologique](https://github.com/macsimplex/simplex/blob/main/ressources/images/evolution_1.jpg)
+- Quel est le premier téléphone que vous avez eu entre les mains ?
+  - En quelle année était-ce ?
+  - Comment vous en serviez-vous ?
+  - Combien de temps l'utilisiez-vous chaque jour ?
+- Quel téléphone possédez-vous désormais ?
+  - Comment vous en serviez-vous ?
+  - Combien de temps l'utilisiez-vous chaque jour ?
+- Combien d'année séparent ces 2 téléphones ?
 
 ### Incertitude
 
