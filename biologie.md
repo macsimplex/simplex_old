@@ -34,7 +34,7 @@ En prenant conscience et en acceptant l'impermanence (tout est sujet à évoluti
 ### Evolution
 > "La conscience est la dernière et la plus tardive évolution de la vie organique, et par conséquent ce qu'il y a de moins accompli et de plus fragile en elle." Friedrich Nietzsche
 
-#### Evolution technologique
+#### Technologies
 ![Evolution Technologique](https://github.com/macsimplex/simplex/blob/main/ressources/images/evolution_1.jpg)
 - Quel est le premier téléphone que vous avez eu entre les mains ?
   - En quelle année était-ce ?
@@ -46,15 +46,24 @@ En prenant conscience et en acceptant l'impermanence (tout est sujet à évoluti
 - Combien d'année séparent ces 2 téléphones ?
   - Savez-vous évaluer la date et la durée de vie de chacun d'entre eux ?
 
+#### Education
 ![Photo de Shubham Sharan sur Unsplash](https://github.com/macsimplex/simplex/blob/main/ressources/images/shubham-sharan-Z-fq3wBVfMU-unsplash.jpg)
 
 Selon vous, en quelle année cette photo a-t-elle été prise ? 1980 ? 2000 ? 2020 ?[^1]<br>
 Dans la mesure où nous avons fait des études supérieures, nous avons avons vécu cette scène, quelque soit notre âge[^2].
 
-Nos pratiques collectives évoluent moins vite que les technologies : 
-- Les technologies émergent et génèrent des potentiels.
-- Les usages s'imaginent et se construisent autour d'elles.
-- Nos pratiques collectives s'adaptent à nos usages.
+Plusieurs "technologies" pédagogiques sont apparues (Montessori, Freinet, Sudbury ...), soulevant de nouveaux potentiels, sans toutefois passer les filtres leur permettant d'être déployées en lieu et place ou en complémentarité (significative) du système (dominant) existant.
+
+Il en est de même avec nos pratiques de gestion de projet.
+
+#### Pratiques collectives
+- Les innovations (au sens large) émergent et génèrent des potentiels. La concomitance de plusieurs innovations en créent de nouvelles, par exemple l'apparition de la 3G et des écrans tactiles.
+- Les usagers (individuellement) s'emparent, ou pas, de ces potentiels en imaginant et construisant des nouveaux usages et en les intégrant à leur vie. <br>
+Bien que plusieurs technologies de visiophonie existent depuis les années 1970, les usages n'ont pas émergé. C'est dans les années 2010 avec l'avènement de WhatsApp (2009), de FaceTime (2010) couplé au déploiement de la 4G (2012) et au succès d'Apple que cet usage se répand.
+- Les pratiques collectives régies ou administrées par des organisations s'adaptent et intègrent ces nouveaux usages moyennant d'importantes négociations, efforts d'adaptations et d'uniformisation / standardisation / normalisation.
+- Lorsqu'une nouvelle pratique collective est définie, elle se déploie et impacte tous les membres de l'organisation, usagers ou pas de l'innovation en question. **PROBLEMATIQUE DE LA DIGITALISATION DES SERVICES PUBLICS PAR EXEMPLE. À écrire**
+
+Nos pratiques collectives évoluent moins vite que nos usages issus du potentiel développé par les innovations.
 
 ### Incertitude
 
@@ -195,6 +204,7 @@ Chacun apprend à son rythme et développe les compétences lorsqu'il en a envie
 Cf. École libre, bouquin et philosophie
 ### Vision
 Si je ne l'ai jamais fait, j'ai une idée, un concept de comment le réaliser.
+Faire référence à la dimension stratégique, en envisageant des scénarios extrêmes, cf. HBR, et leur donner une dimension positive pour une déclinaison opérationnelle des expérimentations.
 Faire le lien avec les phase d'apprentissage : je sais que je ne sais pas.
 Ensuite, je l'intègre "je sais que je sais" (dans les muscles) puis "je ne sais plus que je sais" (dans les gênes).
 ### Mesure

@@ -76,6 +76,7 @@ Nous militons pour une **congruence écologique des organisations** avec leur en
   - [Le livre tibétain de la vie et de la mort](https://fr.wikipedia.org/wiki/Le_Livre_tib%C3%A9tain_de_la_vie_et_de_la_mort) - Sogyal Rinpoché
   - [Effondrement - Comment les sociétés décident de leur disparition ou de leur survie](https://www.decitre.fr/livres/effondrement-9782070364305.html) - Jared Diamond
   - [L'école de la liberté - Un modèle d'éducation autonome et démocratique](https://www.mamaeditions.com/catalogue/mutations/l-ecole-de-la-liberte) - Daniel Greenberg
+  - [Marc HALEVY - Tisserand de la compréhension du devenir](https://noetique.eu/)
 - Agile
   - [Manifeste Agile](https://agilemanifesto.org/iso/fr/manifesto.html)
   - [Agile People](https://agilepeople.com/)
