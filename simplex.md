@@ -47,6 +47,7 @@ Dynamique parallèle à l'organisation en place
   - Mesure la valeur ajoutée apportée,
   - Démontre la faisabilité, prouve la désidérabilité et la viabilité du prototype,
 - Intègre :
+  - Arbitre le déploiement des innovations par le comité de direction,
   - Industrialise (KPI) les innovations ayant fait leurs preuves,
   - Déploie les solutions avec les changements induits.
 
