@@ -36,7 +36,7 @@ Au delà des intentions et principes généralistes, *simplex* vise à proposer 
   - Chaque prototype est testé, confronté à la réalité, pour valider qu'il répond à un besoin (désirabilité), potentiellement différent de celui initialement exprimé.
   - La valeur ajoutée apportée est mesurée en vue de capitaliser et être en mesure d'être démontrée puis d'arbitrer un déploiement dans l'organisation (viabilité).
 
-![](/ressources/illustrations/simplex_vivre.svg)
+![](/ressources/illustrations/simplex_vivre.png)
 
 Dynamique parallèle à l'organisation en place
 - Se base sur la réalité opérationnelle de l'organisation en place : processus, indicateurs, ressources ...,
