@@ -7,7 +7,7 @@
 - Développer une sensibilité à l'[écologie](#ecologie),
 - Définir, sensibiliser et mettre en place des mesure d'[hygiène](#hygiène).
 
-Au delà de développer une vison de la [biologie des organisations](/biologie.md), [*simplex*](/simplex.md) s'inspire de nombreuses [sources](#sources-d'inspiration) et propose un cadre large et évolutif pour que chaque organisation puisse pleinement se l'approprier.
+Au delà de développer une vison de l'[écologie des organisations](/écologie.md), [*simplex*](/simplex.md) s'inspire de nombreuses [sources](#sources-d'inspiration) et propose un cadre large et évolutif pour que chaque organisation puisse pleinement se l'approprier.
 
 ## Postulats
 L'ensemble de ce document se basent sur les postulats suivants :
