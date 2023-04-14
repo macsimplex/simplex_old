@@ -7,7 +7,7 @@
 - Développer une sensibilité à l'[écologie](#ecologie),
 - Définir, sensibiliser et mettre en place des mesure d'[hygiène](#hygiène).
 
-Au delà de développer une vison de l'[écologie des organisations](/écologie.md), [*simplex*](/simplex.md) s'inspire de nombreuses [sources d'inspiration](#inspiration) et propose un cadre large et évolutif pour que chaque organisation puisse pleinement se l'approprier.
+Au delà de développer une vison de l'[écologie des organisations](/écologie.md), [*simplex*](/simplex.md) s'inspire de plusieurs [sources](#inspiration) et propose un cadre large et évolutif pour que chaque organisation puisse pleinement se l'approprier.
 
 ## Postulats
 L'ensemble de ce document se basent sur les postulats suivants :
@@ -95,6 +95,8 @@ Nous militons pour une **congruence écologique des organisations** avec leur en
   - [Management 3.0 Practices](https://management30.com/practice/) 
   - [L'homme aux deux cerveaux - Apprendre à penser différemment dans un monde nouveau](https://www.decitre.fr/livres/l-homme-aux-deux-cerveaux-9782221104620.html) - Daniel Pink
   - [Le principe de Peter - Pourquoi tout employé tend à s'élever jusqu'à son niveau d'incompétence](https://www.decitre.fr/livres/le-principe-de-peter-9782290149379.html) - Laurence J. Peter, Raymond Hull
+
+<!-- 
 - Manga & BD
   - [One Piece](https://www.glenat.com/manga/series/one-piece) - Eiichiro Oda
   - [La vie de Bouddha](https://www.editions-delcourt.fr/mangas/series/serie-la-vie-de-bouddha/album-la-vie-de-bouddha-edition-prestige-t01) - Osamu Tezuka
@@ -106,3 +108,5 @@ Nous militons pour une **congruence écologique des organisations** avec leur en
   - [Le génie des alpages](https://www.dargaud.com/bd/le-genie-des-alpages/le-genie-des-alpages-integrale/le-genie-des-alpages-integrale-le-genie-des) - F'Murrr
   - [Les vieux fourneaux](https://www.dargaud.com/bd/les-vieux-fourneaux/les-vieux-fourneaux) - Lupano, Cauuet, Maffre
 - Films
+- 
+-->
