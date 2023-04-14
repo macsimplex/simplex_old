@@ -112,7 +112,7 @@ Reprendre la proposition et répondre à une adaptation de l'organisation
 
 ### Lectures et actualités
 #### Harvard Business Review France
-Février-mars 2023, Piloter en période de turbulences
+[Février-mars 2023, Piloter en période de turbulences](https://www.prismashop.fr/vn/les-archives-de-hbr/VNHBR55.html)
 
 > La plupart des entreprises - même confrontées à une instabilité extrême - en sont restées à des techniques conventionnelles pour l'élaboration de leur stratégie, au détriment des clients, des actionnaires et des autres parties prenantes.
 

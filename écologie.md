@@ -125,7 +125,7 @@ Un manager influence son équipe et ses membres. Indépendamment de sa volonté,
 
 La performance d'une organisation est liée à sa [culture](#maturité) et peut donc augmenter sa performance en la faisant évoluer. Même si aucun outil ni processus ne donne la solution, des étapes et des facteurs de succès sont identifiés pour accompagner mon organisation dans ce cheminement.
 
-Le levier principal pour changer 
+Faire évoluer la culture d'une organisation implique de faire évoluer les [comportements](#comportement) individuels et collectifs. Le levier principal est d'établir un cadre, un "terrain de jeu" avec de la transparence, des repères et des limites, où les comportements souhaités sont encouragés, les autres découragés. Un facteur clé de réussite : "Montrer l’exemple" en respectant et en faisant respecter le cadre.
 
 ### Posture
 
@@ -141,7 +141,7 @@ Une organisation dans son ensemble, comme chacun de ses membres individuellement
 Quelque soit son niveau de maturité actuel, dans la mesure où une organisation souhaite améliorer son niveau de performance en faisant évoluer sa culture, différentes étapes sont à envisager pour atteindre le niveau souhaité.<br>
 Développer la culture d'une organisation implique le développement de son autonomie en travaillant dans un premier temps sur l'axe de la motivation puis des compétences.
 
-Pour inciter l'évolution de comportement, un dirigeant ou un manager peut influer sur l'environnement dans lequel évoluent les collaborateurs, pas directement sur les collaborateurs eux-mêmes. En tant qu'élément de l'environnement, le dirigeant ou manager a le devoir d'être exemplaire par rapport au comportement souhaité.
+Pour inciter l'évolution de comportement, un dirigeant ou un manager peut influer sur l'environnement dans lequel évoluent les collaborateurs, pas directement sur les collaborateurs eux-mêmes. En tant que partie prenante de l'environnement, le dirigeant ou manager a le devoir d'être exemplaire par rapport au comportement souhaité.
 <!-- <-- Schéma avec en + des intrapreneurs, volontaires et motivés !  -->
 <!-- <-- Organisation // qui est structurée et accessible aux personnes motivées  -->
 <!-- <-- La motivation est suffisante, la compétences sera gérée en second, si besoin est -->
