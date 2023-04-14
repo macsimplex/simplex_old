@@ -1,20 +1,19 @@
 <!-- <-- ------------- HOW -------------  -->
-# Biologie des organisations
-
+# Ecologie des organisations
 
 <!-- <-- Expliciter l'intention, les symptômes  -->
 <!-- <-- Pour répondre au "besoin" de "diagnostic" -->
 <!-- <-- En décrivant un "diagnostic", chacun peut s'y reconnaître ou pas -->
 <!-- <-- Du coup, pas besoin de faire un diagnostic en démarrage puisqu'il est déjà établi ;) -->
-Un être vivant est constamment sollicité par son environnement
 
 <!-- <-- On préconise un cadre, donc explicitons le notre ! Par devoir d'exemplarité  -->
 <!-- <-- Pour chaque section :  -->
 <!-- <-- Introduction orientée Biologie  -->
-<!-- <-- Présentation "théorique" orientée Organisation  -->
+<!-- <-- Présentation "théorique" orientée Organisation avec des ref  -->
 <!-- <-- Synthèse en quelques points  -->
 <!-- <-- Chaque point sera repris dans le document simplex en présentant les propositions  -->
 
+Sans lien avec les différentes théories de l'évolution organisationnelle, *simplex* considère l'évolution des organisation comme un changement dynamique dans le temps : comment une organisation apprend, s'adapte et réagit au sein d'un environnement qui ne peut pas être compris entièrement ou dont l'évolution ne peut pas être prédite à l'avance ?
 - Une organisation [vis](#vivre) dans un environnement en perpétuel changement.
 - Elle [évolue](#evoluer) dans son environnement en se comportant en fonction de sa perception du monde qui l'entoure.
 - Pour rester en vie, elle s'[adapte](#adapter) en identifiant ses alliés et des stratégies.
@@ -74,8 +73,8 @@ Nos pratiques collectives évoluent moins vite que nos usages issus du potentiel
 ### Synthèse
 - Une organisation est ce qu'elle est. Le fait qu'elle soit vivante aujourd'hui indique qu'elle répond à sa manière aux exigences du moment en apportant de la valeur.
 - Une organisation a besoin d'évoluer pour adapter ses capacités, son comportement par rapport à la réalité changeante afin de s'assurer de continuer à apporter le maximum de valeur. 
-- Aucun outil, méthodologie, processus, technique ... ne répond à ce besoin en indiquant la marche à suivre, les étapes pour y arriver. Si réponse ou solution il y a, elles sont à l’intérieur de l'organisation, pas à l’extérieur.
-- Une organisation a besoin d'identifier et d'intégrer des changements régulièrement. Fort de ce constat, elle a besoin de mettre en place un organe, une routine pour les identifier de l'intérieur, les évaluer et les intégrer, si des solutions pertinentes et efficaces sont trouvées.
+- Aucun outil, méthodologie, processus, technique ... ne répond à ce besoin, dans ce contexte, à ce moment précis, en indiquant la marche à suivre, les étapes pour y arriver. Si réponse ou solution il y a, elles sont à chercher à l’intérieur de l'organisation, pas à l’extérieur.
+- Une organisation a besoin d'identifier et d'intégrer des changements régulièrement. Fort de ce constat, elle a besoin de mettre en place un organe, une routine, une hygiène pour les identifier de l'intérieur, les évaluer, et les intégrer si des solutions pertinentes et efficaces sont trouvées.
 
 En complément de son mode de fonctionnement actuel, une organisation a besoin de développer un "organe" pour : 
 - Sonder la réalité et sentir les tendances du moment,
@@ -83,8 +82,41 @@ En complément de son mode de fonctionnement actuel, une organisation a besoin d
 - S'assurer de la pertinence et de la valeur de chaque pistes pour être en mesure de 
 - Décider d'intégrer un changement de manière pérenne dans mon organisation.
 
-L'hygiène professionnelle d'une organisation requiert un protocole de questionnement, de remise en cause régulier pour confronter l'organisation à la réalité et envisager une évolution. Accepter que les questions sont souvent plus importantes que les réponses.
+L'hygiène professionnelle d'une organisation requiert de :
+- Se remettre en cause régulièrement pour confronter l'organisation à la réalité et envisager une évolution,
+- Accepter que les questions sont souvent plus importantes que les réponses.
 <!-- <-- Schéma avec organisation et CODIR + organe en // avec le cercle entre les 2  -->
+
+### Auto-coaching
+#### **Evolution**
+- Quels défis / changements / crises avons-nous vécu ?
+- Comment y avons-nous répondu ?
+- En quoi mon organisation a-t-elle évolué ?
+- Quels sont les défis actuels et a priori à venir ?
+- Dans quelles mesure mon organisation intègre voire anticipe les changements, ou bien est-ce qu’elle les subit ?
+
+#### Incertitude
+- Comment développer ma vision ?
+- Comment prendre plus de recul ?
+- Comment être plus authentique ?
+- Comment étendre mon réseau ?
+- Comment bénéficier de l’intelligence collective ?
+- Comme gagner en agilité ?
+- Comment mieux tester et intégrer les changements ?
+
+#### Complexité
+- Comment essayez-vous de répondre à la complexité ?
+- Comment investiguer des pistes ?
+- Comment évaluer chaque piste ?
+- Comment intégrer les pistes qui ont fait leurs preuves ?
+- Comment répondez-vous à la complexité ?
+
+#### Outils
+- Quels outils connaissez-vous ?
+- A quel besoins répondent-ils ?
+- Comment les utilisez-vous ?
+- Quel est votre lien avec le futur ?<br>
+  Dans quelle mesure cherchez-vous à le contrôler ou à la découvrir ?
 <!-- <-- ------------- FIN VIVRE -------------  -->
 
 <!-- <-- ---------------------------------------------------------------------------------  -->

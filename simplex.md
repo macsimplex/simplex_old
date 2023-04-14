@@ -11,11 +11,16 @@
 
 Au delà des intentions et principes généralistes, *simplex* vise à proposer un **cadre opérationnel** de mise en place et de déploiement de la gestion de la complexité.
 
-- Ce [cadre](#cadre) propose une réponse aux problématiques identifiée dans l'approche de la biologie des organisations.
+- Ce [cadre](#cadre) propose une réponse aux problématiques identifiée dans l'approche de l'écologie des organisations et ses facteurs de réussite.
+- L'[efficacité](#efficacité) de l'ensemble de la démarche est conditionnée par la préparation et le lancement.
 - De nombreux [outils](#outils) divers et variés peuvent être utilisés au sein de ce cadre.
-- En vue tenter de rester connecté à la réalité, des [écho](@echos) à différentes sources et actualités sont partagés.
+- En vue de tenter de rester connecté à la réalité, des [échos](@echos) à différentes sources et actualités ainsi que des retours d'expérience sont partagés.
 
 ## Cadre
+<!-- SECTION faisant écho à chaque SECTION de l'écologie -->
+<!-- 1. Reformulation en formulation entreprise -->
+<!-- 2. Illustration de la proposition simplex -->
+<!-- 3. Explicitation et valorisation de chaque principe simplex introduit -->
 
 ### Vivre
 
@@ -25,7 +30,7 @@ Au delà des intentions et principes généralistes, *simplex* vise à proposer 
 - Pour rester en vie, elle a besoin de s'adapter régulièrement en réponse :
   - Aux changements de son environnement,
   - A la vision qu'elle tend à atteindre en le rendant concrète.
-- Les adaptations envisagées ont vocation à l'aider à être plus performante.<br>Chacune des adaptations :
+- Les adaptations envisagées ont vocation à l'aider à être plus performante.<br>Dans cette quête d'efficacité, chacune des adaptations :
   - Répond à un besoin concret, identifié et désirable,
   - Apporte et prouve la valeur apportée,
   - Est intégrée dans l'organisation si la valeur ajoutée est supérieure à l'investissement et au coût global des perturbations qu'elle va générer lors de sa mise en place.
@@ -38,15 +43,16 @@ Au delà des intentions et principes généralistes, *simplex* vise à proposer 
 
 ![](/ressources/illustrations/simplex_vivre.png)
 
-Dynamique parallèle à l'organisation en place
-- Se base sur la réalité opérationnelle de l'organisation en place : processus, indicateurs, ressources ...,
-- Innove :
+Nous proposons de déployer une dynamique en complémentarité de l'organisation en place.
+- Réalité
+  - La dynamique se base sur la réalité opérationnelle de l'organisation en place : processus, indicateurs, ressources ... permettant, entre autre de détecter et utiliser les signaux faibles,
+- Innovation :
   - Explore des pistes de solutions,
   - Prototype une solution,
   - Teste le prototype, et l'adapte le cas échéant,
   - Mesure la valeur ajoutée apportée,
   - Démontre la faisabilité, prouve la désidérabilité et la viabilité du prototype,
-- Intègre :
+- Intègration :
   - Arbitre le déploiement des innovations par le comité de direction,
   - Industrialise (KPI) les innovations ayant fait leurs preuves,
   - Déploie les solutions avec les changements induits.
@@ -68,18 +74,44 @@ Reprendre la proposition et répondre à une adaptation de l'organisation
 
 ### Coexister
 
-### Synthèse
-- [simplex in a nutshell](/simplex_in_a_nutshell.pdf)
-- [présentation simplex](/simplex_presentation.pdf)
+### Facteurs de réussite
+- Posture du dirigeant
+- Respecter le cadre
+- Exemplarité
+  - Appliquer simplex sur chaque instanciation simplex
+  - Faire évoluer le cadre
+
+## Efficacité
 
 ## Outils
 
+## Synthèse
+- [simplex in a nutshell](/simplex_in_a_nutshell.pdf)
+- [présentation simplex](/simplex_presentation.pdf)
+- Cadre
+  - Préparation
+  - Lancement
+  - Rituels
+    - Plénière #1
+    - Revue Equipe
+    - Revue Enjeu
+    - Revue COMMIT
+    - Plénière
+  - Communication<br>
+    Pour chaque "population" formuler sous la forme de 2 US : en tant que membre du MIT (valorisation interne) + en tant que population cible (valorisation externe)
+    - MIT
+    - Organisation
+      - Organisation - niveau N
+      - Organisation - niveau N+1
+      - Partenaires sociaux
+    - Externe
+      - Candidat
+      - Clients, prospects et partenaires (avv, salon)
 
 ## Echos
 
-Voici quelques partages de lectures et actualités qui résonnent avec *simplex*.
-
-### Harvard Business Review France
+### Lectures et actualités
+#### Harvard Business Review France
 Février-mars 2023, Piloter en période de turbulences
 
 > La plupart des entreprises - même confrontées à une instabilité extrême - en sont restées à des techniques conventionnelles pour l'élaboration de leur stratégie, au détriment des clients, des actionnaires et des autres parties prenantes.
@@ -94,3 +126,8 @@ Février-mars 2023, Piloter en période de turbulences
 5 - Assurer une veille normative<br> 
 
 > Pour réussir en des temps incertains, il faut un nouveau modèle d'élaboration de la stratégie. Les entreprises qui opteront rapidement pour l'approche plus dynamique que nous avons présentée auront une longueur d'avance - et resteront en tête - dans les décennies à venir. Celles qui tiennent à leurs habitudes consistant à "planifier puis agir" risquent de se laisser irrémédiablement distancer.
+
+### Exemples
+#### Bâtiment
+#### Service public
+#### Prestation de service

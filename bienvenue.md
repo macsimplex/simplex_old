@@ -7,7 +7,7 @@
 - Développer une sensibilité à l'[écologie](#ecologie),
 - Définir, sensibiliser et mettre en place des mesure d'[hygiène](#hygiène).
 
-Au delà de développer une vison de la [biologie des organisations](/biologie.md), [*simplex*](/simplex.md) s'inspire de nombreuses [sources](#sources-d'inspiration) et propose un cadre large et évolutif pour que chaque organisation puisse pleinement se l'approprier.
+Au delà de développer une vison de l'[écologie des organisations](/écologie.md), [*simplex*](/simplex.md) s'inspire de nombreuses [sources d'inspiration](#inspiration) et propose un cadre large et évolutif pour que chaque organisation puisse pleinement se l'approprier.
 
 ## Postulats
 L'ensemble de ce document se basent sur les postulats suivants :
@@ -51,7 +51,7 @@ Des mesures individuelles et collectives sont définies pour aligner nos pensée
 Nous militons pour une **hygiène professionnelle des organisations** et leurs associés (individus participant de leur plein gré une organisation).
 Nous militons pour une **congruence écologique des organisations** avec leur environnement.
 
-## Sources d'inspiration
+## Inspiration
 - [Simon Sinek](https://simonsinek.com/)
   - [Commencer par pourquoi](https://simonsinek.com/books/start-with-why/)
   - [Trouver son pourquoi](https://simonsinek.com/books/find-your-why/)
