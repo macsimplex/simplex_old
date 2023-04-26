@@ -4,7 +4,7 @@
 *simplex* est une tentative d'adaptation d'une organisation à la complexité au travers d'un **cadre adaptable et évolutif** :
 - que chaque organisation :
   - adapte à sa réalité,
-  - fait évoluer, tout en restant dans le cadre,
+  - fait évoluer, tout en restant dans un cadre,
 - que chaque coach :
   - s'approprie,
   - décline en y intégrant ses pratiques et outils afférents.
@@ -14,7 +14,7 @@ Au delà des intentions et principes généralistes, *simplex* vise à proposer 
 - Ce [cadre](#cadre) propose une réponse aux problématiques identifiée dans l'approche de l'écologie des organisations et ses facteurs de réussite.
 - L'[efficacité](#efficacité) de l'ensemble de la démarche est conditionnée par la préparation et le lancement.
 - De nombreux [outils](#outils) divers et variés peuvent être utilisés au sein de ce cadre.
-- En vue de tenter de rester connecté à la réalité, des [échos](@echos) à différentes sources et actualités ainsi que des retours d'expérience sont partagés.
+- En vue de tenter de rester connecté à la réalité, des [échos](@/échos.md) à différentes sources et actualités ainsi que des retours d'expérience sont partagés.
 
 ## Cadre
 <!-- SECTION faisant écho à chaque SECTION de l'écologie -->
@@ -43,7 +43,7 @@ Au delà des intentions et principes généralistes, *simplex* vise à proposer 
 
 ![](/ressources/illustrations/simplex_vivre.png)
 
-Nous proposons de déployer une dynamique en complémentarité de l'organisation en place.
+Nous proposons de déployer une dynamique (créative, intuitive, exploratoire ~ cerveau droit) en complémentarité de l'organisation en place (logique, rationnelle, séquentielle ~ cerveau gauche).
 - Réalité
   - La dynamique se base sur la réalité opérationnelle de l'organisation en place : processus, indicateurs, ressources ... permettant, entre autre de détecter et utiliser les signaux faibles,
 - Innovation :
@@ -84,6 +84,23 @@ Reprendre la proposition et répondre à une adaptation de l'organisation
 ## Efficacité
 
 ## Outils
+### Questionnaires
+Pour obtenir un "effet miroir" sur soi.
+  - 360°
+  - DISC
+  - Facteurs de motivation
+  - MBTI
+### Intelligence collective
+  - World Café
+  - Hot Seat
+### Coaching
+  - Pack Ecologique
+  - Mastermind
+  - PNL
+  - AT
+  - Coaching individuel
+### Psychothérapie
+Positionner le coaching versus la psychothérapie.
 
 ## Synthèse
 - [simplex in a nutshell](/simplex_in_a_nutshell.pdf)
@@ -107,25 +124,6 @@ Reprendre la proposition et répondre à une adaptation de l'organisation
     - Externe
       - Candidat
       - Clients, prospects et partenaires (avv, salon)
-
-## Echos
-
-### Lectures et actualités
-#### Harvard Business Review France
-[Février-mars 2023, Piloter en période de turbulences](https://www.prismashop.fr/vn/les-archives-de-hbr/VNHBR55.html)
-
-> La plupart des entreprises - même confrontées à une instabilité extrême - en sont restées à des techniques conventionnelles pour l'élaboration de leur stratégie, au détriment des clients, des actionnaires et des autres parties prenantes.
-
-> Nous sommes convaincus que les dirigeants doivent reconsidérer leur idée de ce qu'est une bonne stratégie en période de turbulences - et envisager l'élaboration d'une stratégie comme **un processus continu générant un plan dynamique et évolutif**.
-
-> Les cinq étapes de cette nouvelle approche et la manière dont chacun exploite les outils d'élaboration de stratégie dans un contexte d'incertitude :<br>
-1 - Définir des scénarios extrêmes mais plausibles<br>
-2 - Identifier des couvertures et des options stratégiques<br>
-3 - Réaliser des expériences avant de boucler un investissement<br>
-4 - Identifier les points de déclenchement, les signaux et les mesures<br>
-5 - Assurer une veille normative<br> 
-
-> Pour réussir en des temps incertains, il faut un nouveau modèle d'élaboration de la stratégie. Les entreprises qui opteront rapidement pour l'approche plus dynamique que nous avons présentée auront une longueur d'avance - et resteront en tête - dans les décennies à venir. Celles qui tiennent à leurs habitudes consistant à "planifier puis agir" risquent de se laisser irrémédiablement distancer.
 
 ### Exemples
 #### Bâtiment

@@ -13,7 +13,7 @@
 <!-- <-- Synthèse en quelques points  -->
 <!-- <-- Chaque point sera repris dans le document simplex en présentant les propositions  -->
 
-Sans lien avec les différentes théories de l'évolution organisationnelle, *simplex* considère l'évolution des organisation comme un changement dynamique dans le temps : comment une organisation apprend, s'adapte et réagit au sein d'un environnement qui ne peut pas être compris entièrement ou dont l'évolution ne peut pas être prédite à l'avance ?
+*simplex* considère l'évolution des organisation non comme un processus clairement défini mais comme, une "dérive naturelle" ([enaction](https://fr.wikipedia.org/wiki/%C3%89naction#:~:text=La%20notion%20d'%C3%A9naction%20est,en%20interaction%20avec%20l'environnement.)), une pratique dynamique dans le temps : les personnes et les organisations auxquelles elles participent, évoluent constamment dans un processus d'auto-formation en vue de s'adapter et réagir au sein d'un environnement qui ne peut pas être compris entièrement ou dont l'évolution ne peut pas être prédite à l'avance.
 - Une organisation [vis](#vivre) dans un environnement en perpétuel changement.
 - Elle [évolue](#evoluer) dans son environnement en se comportant en fonction de sa perception du monde qui l'entoure.
 - Pour rester en vie, elle s'[adapte](#adapter) en identifiant ses alliés et des stratégies.
