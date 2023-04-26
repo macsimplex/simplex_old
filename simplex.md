@@ -42,6 +42,7 @@ Au delà des intentions et principes généralistes, *simplex* vise à proposer 
   - La valeur ajoutée apportée est mesurée en vue de capitaliser et être en mesure d'être démontrée puis d'arbitrer un déploiement dans l'organisation (viabilité).
 
 ![](/ressources/illustrations/simplex_vivre-illustration.png)
+
 [Illustration](/ressources/illustrations/simplex_vivre.png)
 
 Nous proposons de déployer une dynamique (créative, intuitive, exploratoire ~ cerveau droit) en complémentarité de l'organisation en place (logique, rationnelle, séquentielle ~ cerveau gauche).
