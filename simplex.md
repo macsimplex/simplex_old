@@ -41,7 +41,8 @@ Au delà des intentions et principes généralistes, *simplex* vise à proposer 
   - Chaque prototype est testé, confronté à la réalité, pour valider qu'il répond à un besoin (désirabilité), potentiellement différent de celui initialement exprimé.
   - La valeur ajoutée apportée est mesurée en vue de capitaliser et être en mesure d'être démontrée puis d'arbitrer un déploiement dans l'organisation (viabilité).
 
-![](/ressources/illustrations/simplex_vivre.png)
+![](/ressources/illustrations/simplex_vivre-illustration.png)
+[Illustration](/ressources/illustrations/simplex_vivre.png)
 
 Nous proposons de déployer une dynamique (créative, intuitive, exploratoire ~ cerveau droit) en complémentarité de l'organisation en place (logique, rationnelle, séquentielle ~ cerveau gauche).
 - Réalité

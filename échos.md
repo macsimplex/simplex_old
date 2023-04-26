@@ -29,11 +29,11 @@ https://www.ecologie.gouv.fr/rapportage-extra-financier-des-entreprises
 
 > Avec le constat que les activités des entreprises génèrent des conséquences non seulement économiques et financières mais également sociales et environnementales, l’idée d’une nécessaire publication d’informations non financières de la part des entreprises s‘est peu à peu imposée aussi bien sur le plan national qu’européen et international, donnant lieu à l’élaboration de diverses réglementations.<br> En France, cela se traduit par la « déclaration de performance extra-financière des entreprises ».
 
-> La directive du 22 octobre 2014 en ce qui concerne la publication d’informations non financières et d’informations relatives à la diversité par certaines grandes entreprises et certains groupes prévoit un rapportage sur la politique environnementale sociale et de gouvernance de la société et son résultat sous forme d’indicateurs clés de performance, ainsi qu’une description des principaux risques environnementaux sociaux et de gouvernance, et la manière dont la société les gère.
+> La directive du 22 octobre 2014 en ce qui concerne la publication d’informations non financières et d’informations relatives à la diversité prévoit un rapportage sur la politique environnementale sociale et de gouvernance de la société et son résultat sous forme d’indicateurs clés de performance, ainsi qu’une description des principaux risques environnementaux sociaux et de gouvernance, et la manière dont la société les gère.
 
-> La déclaration de performance extra-financière doit être avant tout conçue comme un outil de pilotage de la stratégie de l’entreprise. Elle permet également à cette dernière de promouvoir ses actions en matière de RSE et répond à une demande de transparence des parties prenantes (pouvoirs publics, employés, clients, fournisseurs, sous-traitants, investisseurs, ONG et citoyens).
+> La déclaration de performance extra-financière doit être avant tout conçue comme un** outil de pilotage de la stratégie de l’entreprise**. Elle permet également à cette dernière de **promouvoir ses actions** en matière de RSE et répond à une** demande de transparence des parties prenantes** (pouvoirs publics, employés, clients, fournisseurs, sous-traitants, investisseurs, ONG et citoyens).
 
-> Enfin, en complément des questions de rapportage et de transparence, il est essentiel de favoriser l’évolution des pratiques, des modèles d’affaire et des modèles de gouvernance des entreprises vers une plus grande prise en compte des enjeux sociaux et environnementaux.
+> Enfin, en complément des questions de rapportage et de transparence, il est essentiel de **favoriser l’évolution** des pratiques, des modèles d’affaire et des modèles de gouvernance des entreprises vers une plus grande prise en compte des enjeux sociaux et environnementaux.
 
 ## Observatoire de la RSE
 https://www.orse.org/
