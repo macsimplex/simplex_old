@@ -14,7 +14,7 @@ Au delà des intentions et principes généralistes, *simplex* vise à proposer 
 - Ce [cadre](#cadre) propose une réponse aux problématiques identifiée dans l'approche de l'écologie des organisations et ses facteurs de réussite.
 - L'[efficacité](#efficacité) de l'ensemble de la démarche est conditionnée par la préparation et le lancement.
 - De nombreux [outils](#outils) divers et variés peuvent être utilisés au sein de ce cadre.
-- En vue de tenter de rester connecté à la réalité, des [échos](@/échos.md) à différentes sources et actualités ainsi que des retours d'expérience sont partagés.
+- En vue de tenter de rester connecté à la réalité, des [échos](/échos.md) à différentes sources et actualités ainsi que des retours d'expérience sont partagés.
 
 ## Cadre
 <!-- SECTION faisant écho à chaque SECTION de l'écologie -->
