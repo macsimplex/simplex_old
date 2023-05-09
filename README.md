@@ -22,4 +22,4 @@ _simplex_ est à destination de toute personne croyant au potentiel du collectif
 Collaborateurs, managers, dirigeants, coachs ... vous êtes invités à prendre connaissance de *simplex*, à la digérer, à l'adapter, à l'expérimenter et à partager votre expérience avec l'ensemble de la communauté ; et à solliciter de l'aide si vous en ressentez le besoin.
 
 ## Support
-Pour toute question, suggestion, remarque, proposition, réclamation ..., vous êtes invités à contacter hello@simplex.coach !
+Pour toute remarque, vous êtes invités à [nous contacter](mailto:hello@simplex.coach) !
