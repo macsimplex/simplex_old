@@ -14,7 +14,8 @@ Autre tentative, plus concise :
 
 > *simplex* vise à insufluer aux organisations, personnes morales vivantes, la capacité du monde vivant à évoluer et à s'adapter à leur environnement.
 
-Pour démarrer avec *simplex*, nous vous souhaitons la [**bienvenue**](/bienvenue.md).
+- [simplex in a nutshell](/simplex_in_a_nutshell.pdf)
+- [présentation simplex](/simplex_presentation.pdf)
 
 ## Pour qui ?
 _simplex_ est à destination de toute personne croyant au potentiel du collectif et désireuse de faire évoluer son organisation de manière simple et structurée.
