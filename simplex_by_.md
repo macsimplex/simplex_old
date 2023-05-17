@@ -1,4 +1,4 @@
-# simplex by
+# by
 
 Chaque contributeur peut partager sa vision de *simplex* :
 
