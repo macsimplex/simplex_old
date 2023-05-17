@@ -2,8 +2,8 @@
 
 ## Avant-propos
 
-- [Ecologie des organisations](ecologie_des_organisation)
-- [Echos](echos)
+- [Ecologie des organisations](#ecologie_des_organisation)
+- [Echos](#echos)
 
 
 # Ecologie des organisations
