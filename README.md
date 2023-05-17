@@ -14,6 +14,7 @@ Autre tentative, plus concise :
 
 > *simplex* vise à insufluer aux organisations, personnes morales vivantes, la capacité du monde vivant à évoluer et à s'adapter à leur environnement.
 
+- [simplex en une image](/simplex.pdf)
 - [simplex in a nutshell](/simplex_in_a_nutshell.pdf)
 - [présentation simplex](/simplex_presentation.pdf)
 
