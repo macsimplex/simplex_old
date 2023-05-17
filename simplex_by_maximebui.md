@@ -2,19 +2,22 @@
 
 ## Avant-propos
 
-- [Ecologie des organisations](#ecologie_des_organisation)
+## Sommaire
+- [Ecologie des organisations](#ecologie-des-organisations)
 - [Echos](#echos)
+- [Contact](#contact)
 
+# Introduction
 
 # Ecologie des organisations
 
 # Echos
 
 Les lectures et actualités suivantes font échos à simplex et ses champs d'application :
-- [Piloter en période de turbulences - HBR fév-mars 2023](#Piloter-en-période-de-turbulences)
-- [Le rapportage extra-financier des entreprises - Ministère de l'écologie](#Le-rapportage-extra-financier-des-entreprises)
-- [Les actionnaires, des parties prenantes comme les autres ? - ORSE](#Observatoire-de-la-RSE)
-- [Finance durable](#Finance-durable)
+- [Piloter en période de turbulences - HBR fév-mars 2023](#piloter-en-période-de-turbulences)
+- [Le rapportage extra-financier des entreprises - Ministère de l'écologie](#le-rapportage-extra-financier-des-entreprises)
+- [Observatoire de la RSE](#observatoire-de-la-rse)
+- [Finance durable](#finance-durable)
 
 ## Piloter en période de turbulences
 Harvard Business Review France - Février-mars 2023<br>
