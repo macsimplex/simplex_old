@@ -2,5 +2,5 @@
 
 Chaque contributeur peut partager sa vision de *simplex* :
 
-- [Maxime Bui](/by/simplex_by_maximebui.md)
+- [Maxime Bui](simplex_by_maximebui.md)
 
