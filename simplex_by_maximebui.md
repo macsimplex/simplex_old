@@ -11,10 +11,10 @@
 # Echos
 
 Les lectures et actualités suivantes font échos à simplex et ses champs d'application :
-- [Piloter en période de turbulences - HBR fév-mars 2023](##Piloter-en-période-de-turbulences)
-- [Le rapportage extra-financier des entreprises - Ministère de l'écologie](##Le-rapportage-extra-financier-des-entreprises)
-- [Les actionnaires, des parties prenantes comme les autres ? - ORSE](##Observatoire-de-la-RSE)
-- [Finance durable](##Finance-durable)
+- [Piloter en période de turbulences - HBR fév-mars 2023](#Piloter-en-période-de-turbulences)
+- [Le rapportage extra-financier des entreprises - Ministère de l'écologie](#Le-rapportage-extra-financier-des-entreprises)
+- [Les actionnaires, des parties prenantes comme les autres ? - ORSE](#Observatoire-de-la-RSE)
+- [Finance durable](#Finance-durable)
 
 ## Piloter en période de turbulences
 Harvard Business Review France - Février-mars 2023<br>
