@@ -11,10 +11,10 @@
 # Echos
 
 Les lectures et actualités suivantes font échos à simplex et ses champs d'application :
-- [Piloter en période de turbulences - HBR fév-mars 2023](#Piloter-en-période-de-turbulences)
-- [Le rapportage extra-financier des entreprises - Ministère de l'écologie](#Le-rapportage-extra-financier-des-entreprises)
-- [Les actionnaires, des parties prenantes comme les autres ? - ORSE](#Observatoire-de-la-RSE)
-- [Finance durable](#Finance-durable)
+- [Piloter en période de turbulences - HBR fév-mars 2023](##Piloter-en-période-de-turbulences)
+- [Le rapportage extra-financier des entreprises - Ministère de l'écologie](##Le-rapportage-extra-financier-des-entreprises)
+- [Les actionnaires, des parties prenantes comme les autres ? - ORSE](##Observatoire-de-la-RSE)
+- [Finance durable](##Finance-durable)
 
 ## Piloter en période de turbulences
 Harvard Business Review France - Février-mars 2023<br>
@@ -92,7 +92,7 @@ https://www.amf-france.org/fr/espace-epargnants/comprendre-les-produits-financie
 
 > Le **critère social** est particulièrement vaste en terme d’indicateurs. Il s’agit de regarder des **éléments internes à la vie de la société** comme la prévention des accidents du travail, l’intégration des salariés en situation de handicap, la formation ou encore la qualité du dialogue social au sein de l’entreprise, etc.
 
-> Des trois critères, c’est le** critère de gouvernance** qui est généralement le moins concret pour les épargnants. Et pourtant, la gouvernance d’une entreprise est **un élément essentiel** à prendre en compte dans une entreprise, qu’il s’inscrive dans une démarche responsable ou non.<br> La gouvernance, c’est l’**ensemble des dispositifs qui assurent le bon fonctionnement d’une entreprise**. 
+> Des trois critères, c’est le **critère de gouvernance** qui est généralement le moins concret pour les épargnants. Et pourtant, la gouvernance d’une entreprise est **un élément essentiel** à prendre en compte dans une entreprise, qu’il s’inscrive dans une démarche responsable ou non.<br> La gouvernance, c’est l’**ensemble des dispositifs qui assurent le bon fonctionnement d’une entreprise**. 
 
 La gouvernance c’est donc la façon dont la société est pilotée pour mener à bien ses objectifs et prendre des décisions dans le respect de ses parties prenantes.
 
