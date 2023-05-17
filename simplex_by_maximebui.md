@@ -3,9 +3,12 @@
 ## Avant-propos
 
 ## Sommaire
+- [Remerciements](#remerciements)
 - [Ecologie des organisations](#ecologie-des-organisations)
 - [Echos](#echos)
 - [Contact](#contact)
+
+# Remerciements
 
 # Introduction
 
@@ -20,8 +23,7 @@ Les lectures et actualités suivantes font échos à simplex et ses champs d'app
 - [Finance durable](#finance-durable)
 
 ## Piloter en période de turbulences
-Harvard Business Review France - Février-mars 2023<br>
-https://www.prismashop.fr/vn/les-archives-de-hbr/VNHBR55.html
+Harvard Business Review France - Février-mars 2023 - [lien](https://www.prismashop.fr/vn/les-archives-de-hbr/VNHBR55.html)
 
 > La plupart des entreprises - même confrontées à une instabilité extrême - en sont restées à des techniques conventionnelles pour l'élaboration de leur stratégie, au détriment des clients, des actionnaires et des autres parties prenantes.
 
@@ -36,8 +38,7 @@ https://www.prismashop.fr/vn/les-archives-de-hbr/VNHBR55.html
 
 > Pour réussir en des temps incertains, il faut un nouveau modèle d'élaboration de la stratégie. Les entreprises qui opteront rapidement pour l'approche plus dynamique que nous avons présentée auront une longueur d'avance - et resteront en tête - dans les décennies à venir. Celles qui tiennent à leurs habitudes consistant à "planifier puis agir" risquent de se laisser irrémédiablement distancer.
 
-## Le rapportage extra-financier des entreprises
-https://www.ecologie.gouv.fr/rapportage-extra-financier-des-entreprises
+## Le rapportage extra-financier des entreprises - [lien](https://www.ecologie.gouv.fr/rapportage-extra-financier-des-entreprises)
 
 > Le rapportage extra-financier consiste pour une entreprise à communiquer sur les implications sociales, environnementales, sociétales de ses activités ainsi que sur son mode de gouvernance. Il constitue un fondement important de la politique de responsabilité sociétale des entreprises de l’entreprise vis-à-vis de ses parties prenantes, des citoyens et de l’État.
 
@@ -49,18 +50,15 @@ https://www.ecologie.gouv.fr/rapportage-extra-financier-des-entreprises
 
 > Enfin, en complément des questions de rapportage et de transparence, il est essentiel de **favoriser l’évolution** des pratiques, des modèles d’affaire et des modèles de gouvernance des entreprises vers une plus grande prise en compte des enjeux sociaux et environnementaux.
 
-## Observatoire de la RSE
-https://www.orse.org/
+## Observatoire de la RSE - [lien](https://www.orse.org/)
 
-### Promouvoir la RSE au cœur des organisations
-https://www.orse.org/nos-expertises/gouvernance
+### Promouvoir la RSE au cœur des organisations - [lien](https://www.orse.org/nos-expertises/gouvernance)
 > L’Orse participe au développement d’une gouvernance responsable, robuste, indispensable à l’ancrage de la RSE au cœur de la stratégie de l’entreprise. Nous nous concentrons sur trois leviers incontournables :<br>
 > - Le dialogue avec les parties prenantes ;<br>
 > - La prise en compte des risques RSE, avec une attention toute particulière concernant les risques liés à la chaîne d’approvisionnement ;
 > - L’implication des dirigeants pour impulser une nouvelle dynamique et leur donner les moyens pour atteindre leurs engagements RSE
 
-### Livret N°5 - Les actionnaires, des parties prenantes comme les autres ?
-https://www.orse.org/nos-travaux/livret-ndeg5-dialogue-avec-les-entreprises-les-actionnaires-des-parties-prenantes-comme-les-autres
+### Livret N°5 - Les actionnaires, des parties prenantes comme les autres ? - [lien](https://www.orse.org/nos-travaux/livret-ndeg5-dialogue-avec-les-entreprises-les-actionnaires-des-parties-prenantes-comme-les-autres)
 
 > Les investisseurs, au-delà de recevoir des dividendes, sont en capacité d’orienter, de guider et de valider la stratégie, dont ils sont bénéficiaires. Ils souhaitent de plus en plus de **réinvestissements au profit de la transition écologique et sociale**.
 
@@ -84,12 +82,10 @@ https://www.orse.org/nos-travaux/livret-ndeg5-dialogue-avec-les-entreprises-les-
 
 > **Les comportements** des différentes parties **sont amenés à évoluer** selon les réglementations.
 
-### Finance durable
-L'autorité des marchés financiers explicite la finance durable.<br>
-https://www.amf-france.org/fr/espace-epargnants/comprendre-les-produits-financiers/finance-durable/comprendre-la-finance-durable
+### Finance durable - [lien](https://www.amf-france.org/fr/espace-epargnants/comprendre-les-produits-financiers/finance-durable/comprendre-la-finance-durable)
+L'autorité des marchés financiers explicite la finance durable.
 
-#### Critère extra-financier
-https://www.amf-france.org/fr/espace-epargnants/comprendre-les-produits-financiers/finance-durable/comprendre-la-finance-durable/quest-ce-quun-critere-extra-financier#:~:text=Les%20crit%C3%A8res%20extra%2Dfinanciers%20permettent,de%20croissance%2C%20etc.).
+#### Critère extra-financier - [lien](https://www.amf-france.org/fr/espace-epargnants/comprendre-les-produits-financiers/finance-durable/comprendre-la-finance-durable/quest-ce-quun-critere-extra-financier#:~:text=Les%20crit%C3%A8res%20extra%2Dfinanciers%20permettent,de%20croissance%2C%20etc.)
 
 > Les critères extra-financiers permettent d’évaluer un acteur économique **en dehors des critères financiers habituels**. Il s’agit de prendre en compte **son impact et ses performances via un autre prisme**, comme celui de l’environnement.<br> En matière de finance durable, ces critères sont appelés **ESG pour Environnemental, Social et de Gouvernance**. Ils font l’objet d’une notation par des agences spécialisées ou non : plus une société est performante sur un ou plusieurs critères, meilleure est sa note. Et c’est sur la base de ces notations notamment que les sociétés de gestion peuvent choisir les actifs qui composent leurs fonds d’investissement responsable par exemple.
 
@@ -99,15 +95,13 @@ https://www.amf-france.org/fr/espace-epargnants/comprendre-les-produits-financie
 
 La gouvernance c’est donc la façon dont la société est pilotée pour mener à bien ses objectifs et prendre des décisions dans le respect de ses parties prenantes.
 
-#### Agences de notation extra-financière
-https://www.amf-france.org/fr/espace-epargnants/comprendre-les-produits-financiers/finance-durable/comprendre-la-finance-durable/agences-de-notation-extra-financiere-quel-est-leur-role
+#### Agences de notation extra-financière - [lien](https://www.amf-france.org/fr/espace-epargnants/comprendre-les-produits-financiers/finance-durable/comprendre-la-finance-durable/agences-de-notation-extra-financiere-quel-est-leur-role)
 
 > Une agence de notation est une société chargée d’évaluer le risque de non-remboursement d’une dette (notation financière), ou **la politique ESG (notation extra-financière)** d’un acteur économique (entreprise, Etat ou collectivité). Ces évaluations permettent notamment d’éclairer les investisseurs dans leurs décisions d’investissement. La notation extra-financière se développe depuis plusieurs années, en parallèle de l’essor des produits financiers durables ou responsables.
 
 > L’une des principales limites dans la notation extra-financière est l’**absence de méthodologie standard internationale**. En effet, une société peut être notée différemment selon les agences de notation. Pour les investisseurs, il est donc important de **se renseigner sur la méthodologie mise en œuvre** par ces agences.<br> Chaque agence détermine **les indicateurs qu’elle estime pertinents** de suivre, ainsi que leur pondération. Néanmoins, les agences de notation extra-financière utilisent généralement les normes internationales en vigueur comme socle d’analyse commun (Déclaration universelle des droits de l’Homme, conventions internationales de l’Organisation internationale du Travail, etc.).<br> Pour analyser chaque critère, les agences de notation vont **vérifier la politique** de l’acteur économique, **le déploiement des mesures** ainsi que **leur performance**. Chaque critère est noté, et une note globale est attribuée afin de pouvoir comparer les acteurs entre eux.
 
-#### Déchiffrer la déclaration de performance extra-financière
-https://www.amf-france.org/fr/node/68891
+#### Déchiffrer la déclaration de performance extra-financière - [lien](https://www.amf-france.org/fr/node/68891)
 
 > Les placements responsables ne s'arrêtent pas aux fonds : il est possible d'investir en direct en actions, **en sélectionnant les entreprises à la démarche la plus sérieuse**. Mais comment savoir si une société défend **les valeurs qui vous tiennent à cœur** ? Grâce à la déclaration de performance extra-financière (DPEF), vous avez accès à de nombreuses informations nécessaires pour faire un choix éclairé.
 
