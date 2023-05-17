@@ -22,5 +22,8 @@ Autre tentative, plus concise :
 _simplex_ est à destination de toute personne croyant au potentiel du collectif et désireuse de faire évoluer son organisation de manière simple et structurée.
 Collaborateurs, managers, dirigeants, coachs ... vous êtes invités à prendre connaissance de *simplex*, à la digérer, à l'adapter, à l'expérimenter et à partager votre expérience avec l'ensemble de la communauté ; et à solliciter de l'aide si vous en ressentez le besoin.
 
+## Par qui ?
+simplex est un projet Open Source sous licence [Creative Commons](/LICENSE). Chacun est libre de se l'approprier, de le décliner et d'en partager sa vision. Vous pouvez trouver les différentes versions de simplex [ici](/by).
+
 ## Support
 Pour toute remarque, vous êtes invités à [nous contacter](mailto:hello@simplex.coach) !
