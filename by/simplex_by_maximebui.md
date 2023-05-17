@@ -1,10 +1,6 @@
-# simplex by Maxime Bui
+# simplex by
 
-## Mon simplex
+Chaque contributeur peut partager sa vision de *simplex* :
 
-## Contact
-- Email : [maxime@simplex.coach](mailto:maxime@simplex.coach)
-- Téléphone : [06 63 91 42 36](tel:+33663914236)
-- Site internet : [maxime.simplex.coach](https://maxime.simplex.coach/)
+- [Maxime Bui](/by/simplex_by_maximebui.md)
 
-Quel est le problème ?
