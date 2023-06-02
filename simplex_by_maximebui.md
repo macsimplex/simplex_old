@@ -17,8 +17,8 @@ Pour pleinement comprendre la démarche et l'intérêt de *simplex*, j'ai à coe
 
 # Remerciements
 Ce contenu est un travail collectif (direct et indirect), fruit de nombreuses rencontres, échanges et expériences qui ont permis de construire et éprouver cette vision.
-- Ma femme, pour son soutien indéfectible.
-- Mes enfants, pour avoir "éprouvé" le modèle en famille.
+- Virginie, pour son soutien indéfectible.
+- Eloïse et Raphaël, pour avoir "éprouvé" le modèle en famille.
 - François, pour son amitié, son assertivité et son soutien.
 - Fabien, pour son courage et sa posture de dirigeant coach.
 
