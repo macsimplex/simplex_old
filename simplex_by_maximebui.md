@@ -59,13 +59,15 @@ Chaque transformation n'est pas une fin en soi : pour (sur)vivre, au-delà de se
 
 En prenant conscience et en acceptant l'impermanence (tout est sujet à évolution), une organisation cherche à se doter des capacités pour rester connectée à la réalité changeante, sentir les tendances et répondre en conséquence.
 
+<!--
 ### Evolution
 > "La conscience est la dernière et la plus tardive évolution de la vie organique, et par conséquent ce qu'il y a de moins accompli et de plus fragile en elle." Friedrich Nietzsche
 ### Incertitude
 ### Complexité
 ### Outils
-
 ### Synthèse
+-->
+
 - Une organisation est ce qu'elle est. Le fait qu'elle soit vivante aujourd'hui indique qu'elle répond à sa manière aux exigences du moment en apportant de la valeur.
 - Une organisation a besoin d'évoluer pour adapter ses capacités, son comportement par rapport à la réalité changeante afin de s'assurer de continuer à apporter le maximum de valeur. 
 - Aucun outil, méthodologie, processus, technique ... ne répond à ce besoin, dans ce contexte, à ce moment précis, en indiquant la marche à suivre, les étapes pour y arriver. Si réponse ou solution il y a, elles sont à chercher à l’intérieur de l'organisation, pas à l’extérieur.
@@ -89,12 +91,14 @@ La performance d'une organisation est liée à sa [culture](#maturité) et peut 
 
 Faire évoluer la culture d'une organisation implique de faire évoluer les [comportements](#comportement) individuels et collectifs. Le levier principal est d'établir un cadre, un "terrain de jeu" avec de la transparence, des repères et des limites, où les comportements souhaités sont encouragés, les autres découragés. Un facteur clé de réussite : "Montrer l’exemple" en respectant et en faisant respecter le cadre.
 
+<!--
 ### Posture
 ### Croyances
 ### Maturité
 ### Comportement
-
 ### Synthèse
+-->
+
 Une organisation dans son ensemble, comme chacun de ses membres individuellement, se comporte selon sa vision du monde. Le fonctionnement et la culture de l'organisation sont le reflet du fonctionnement et de la culture de chacun de ses membres, et réciproquement. Le climat et la performance d'une organisation dépendent pour partie de sa culture.
 
 Quelque soit son niveau de maturité actuel, dans la mesure où une organisation souhaite améliorer son niveau de performance en faisant évoluer sa culture, différentes étapes sont à envisager pour atteindre le niveau souhaité.<br>
@@ -110,14 +114,16 @@ Elle a besoin d'identifier ses [alliés](#influence) (internes et externes) et d
 
 Pour être efficace et mener l'ensemble des actions de manière coordonnées, un [cadre](#cadre) est nécessaire, notamment pour [distribuer](#délégation) les rôles et responsabilités aux différents organes.
 
+<!--
 ### Influence
 ### Forces
 ### Résistance
 ### Diffusion
 ### Cadre
 ### Délégation
-
 ### Synthèse
+-->
+
 Afin d'avoir un impact sur son environnement et sa zone de préoccupation, une organisation se concentre sur sa zone d'influence en identifiant un premier cercle de confiance, alliés à l'ensemble de la démarche, quelque soit sa position et son rôle dans l'organisation existante.
 
 Au delà de faire la promotion d'un changement souhaité a priori, l'organisation se concentre sur les difficultés, les réticences qu'un tel changement peut susciter. En embarquant les parties prenantes à chaque évolution, elle identifie leurs potentiels freins (résistances) et construisent avec elles une vision suffisamment attrayante pour créer l'envie et par là, le mouvement.
@@ -135,12 +141,14 @@ Tous les organes, interdépendants, travaillent ensemble. Pour progresser et ré
 - Apprendre de ses erreurs et celles des autres afin s'améliorer,
 - Proposer ses idées et trouver des stratégies innovantes.
 
+<!--
 ### Potentiel
 ### Accompagnement
 ### Confiance
 ### Sécurité
-
 ### Synthèse
+-->
+
 Le potentiel de chaque personne, et par conséquent collectif, est largement sous exprimé. Il existe un énorme réservoir de talents à exprimer et à mettre en musique dans des dynamiques collectives. Chacun possède un potentiel, des talents impossibles à détecter de manière analytique. Confiante dans la capacité individuelle et collective de ses associés, une organisation accompagne chacun d'eux dans la découverte et le développement de ses talents, étape par étape, constate et célèbre les progrès.
 
 Afin que chacun (personnes et équipes) se sentent en pleine sécurité et soit dans les conditions favorables au développement de son potentiel, un code de bonne conduite, charte déontologique est formalisée pour que chacun puisse se sentir en sécurité.
@@ -155,12 +163,13 @@ Lorsqu'une organisation réalise :
 - Une action qu'elle connaît et qu'elle a l'habitude de faire, elle peut [mesurer](#mesure) la performance de chaque organe afin d'assurer la coordination et de la performance de l'ensemble.
 - Une initiative de nouveau mouvement, la procédure d'exécution est encore inconnue. Seules les principales étapes sont envisagées, et la progression est [mesurée](#mesure) au regard de ces étapes, qui s'ajustent au fur et à mesure où le mouvement est réalisé. En posture d'apprentissage, l'organisation apprend de chacune de ses erreurs pour progresser, ou détecte au plus tôt ses limites pour ajuster son ambition à la baisse.
 
+<!--
 ### Alignement
 ### Motivation
 ### Vision
 ### Mesure
-
 ### Synthèse
+-->
 Une vision d'ensemble est définie par l'organisation et partagée auprès de l'ensemble de ses contributeurs afin qu'ils puissent se l'approprier individuellement et collectivement en la déclinant à leur niveau de contribution.
 
 En posture de découverte et d'apprentissage (et non pas d'exécution d'un mouvement connu et maîtrisé), l'anticipation et la mesure de la performance est réalisée au travers de point d'étapes imaginés a priori.<BR>
@@ -195,13 +204,14 @@ La préparation est la clé d'un apprentissage [efficace](#efficacité) :
 
 Une fois bien préparé, l'apprentissage peut commencer et la progression démarrer.
 
+<!--
 ### Erreur
 ### Incréments
 ### Régularité
 ### Stratégie
 ### Efficacité
-
 ### Synthèse
+-->
 Pour développer le potentiel d'une organisation, elle a besoin d'être en posture d'apprentissage : 
 - Une planification et un séquençage régulier de son investissement en temps, incluant :
 - Des temps de réflexion pour observer ses pratiques, constater et célébrer le progrès : 
@@ -220,10 +230,11 @@ Pour ce faire, elle s'interroge (régulièrement) sur son identité et met en pl
 
 La cohérence et la dynamique de l'ensemble repose sur la [communication](#communication) : la fluidité des informations pertinentes à circuler entre l'ensemble des parties prenantes, internes comme externes.
 
+<!--
 ### Appartenance
 ### Communication
-
 ### Synthèse
+-->
 Une organisation met en place les conditions favorables au développement du sentiment d'appartenance en proposant un cadre qui marque de façon stable les passages importants de la vie au travers de différentes célébrations. Ce cadre et ses rituels :
 - Donnent des repères dans l'espace et le temps, 
 - Structurent et rythment la vie de l'organisation,
@@ -234,7 +245,8 @@ Une organisation met en place les conditions favorables au développement du sen
 Un rituel a pour missions de susciter, de maintenir l'intérêt et l'adhésion des participants. Dans le cadre défini, chaque rituel reste ouvert sur sa raison d'être et son formalisme ; il est revitalisé, revisité, réactualisé selon le contexte et l'actualité.
 
 Le cadre et les rituels ont une fonction sociale sécurisante, tranquillisante et contenante : la fonction de prédictibilité, d’anticipation et la fonction de transmission culturelle qui est nécessaire à la construction d'une identité.<br>
-Au delà de conventions sociales : ils nous fait humains, porteurs de dignité, de fierté et de considération de soi et d’autrui, en nous offrant le cadre pour exister ensemble et avec les autres d’une façon signifiante.
+Un rituel donne des repères dans l’espace et dans le temps, il structure le quotidien. Il sécurise, rassure sur le plan émotionnel car savoir à l’avance comment les choses vont se dérouler nous donne un certain pouvoir. 
+Choisi et construit (et non subi), un rituel nous fait humains, porteurs de dignité, de fierté et de considération de soi et d’autrui, en nous offrant le cadre pour exister ensemble et avec les autres d’une façon signifiante.
 
 L'identité et l'existence requiert un flux d'informations : 
 - Un système nerveux de circulation de l'information en interne, pour alimenter chaque personne, chaque équipe et reconnaître leurs existences et leurs participations à l'identité et à la vie de l'organisation,
@@ -418,6 +430,7 @@ Sauf que, si on veut les motiver, il faut comprendre comment fonctionne un être
   - [La Transformation permanente](https://www.eyrolles.com/Entreprise/Livre/la-transformation-permanente-9782847698435/) - Patrick Dugois, Philippe Béon, Thierry Gauthron
   - [Méthode de coaching d'organisation pour piloter le changement](https://www.editions-eyrolles.com/Livre/9782212570458/methode-de-coaching-d-organisation) - Olivier Devillard
   - [Reinventing Organizations](https://www.reinventingorganizations.com/fr.html) - Frédéric Laloux
+  - [Stratégie Modèle Mental](https://philippesilberzahn.com/ouvrages/strategie-modele-mental/) - Philippe Silberzahn et Béatrice Rousset <br> Cracker enfin le code des organisations pour les remettre en mouvement
 - Technologie managériale
   - [Holacraty](https://www.holacracy.org/) - HolacracyOne
   - [Holacraty : la constitution 5.0](https://igipartners.com/constitution-holacracy-5.0) - Igi Partners
@@ -433,6 +446,7 @@ Sauf que, si on veut les motiver, il faut comprendre comment fonctionne un être
   - [Agile People](https://agilepeople.com/)
   - [Agile Business Consortium](https://www.agilebusiness.org/business-agility.html)
   - [Management 3.0](https://management30.com/) - Jurgen Appello
+  - [Evidence-Based Management™ (EBM)](https://www.scrum.org/resources/evidence-based-management) - SCRUM.org
 - Méthodes et outils
   - [Game Storming : jouer pour innover](https://gamestorming.com/)
   - [Comment leur dire ... La Process Communication](https://www.dunod.com/sciences-humaines-et-sociales/comment-leur-dire-process-communication-0) - Gérard Collignon
@@ -446,6 +460,7 @@ Sauf que, si on veut les motiver, il faut comprendre comment fonctionne un être
   - [Management 3.0 Practices](https://management30.com/practice/) 
   - [L'homme aux deux cerveaux - Apprendre à penser différemment dans un monde nouveau](https://www.decitre.fr/livres/l-homme-aux-deux-cerveaux-9782221104620.html) - Daniel Pink
   - [Le principe de Peter - Pourquoi tout employé tend à s'élever jusqu'à son niveau d'incompétence](https://www.decitre.fr/livres/le-principe-de-peter-9782290149379.html) - Laurence J. Peter, Raymond Hull
+  - [Evidence-based management](https://hbr.org/2006/01/evidence-based-management) - HBR, Jeffrey Pfeffer and Robert I. Sutton
 - Manga & BD
   - [One Piece](https://www.glenat.com/manga/series/one-piece) - Eiichiro Oda
   - [La vie de Bouddha](https://www.editions-delcourt.fr/mangas/series/serie-la-vie-de-bouddha/album-la-vie-de-bouddha-edition-prestige-t01) - Osamu Tezuka
