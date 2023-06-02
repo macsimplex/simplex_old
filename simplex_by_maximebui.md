@@ -1,9 +1,11 @@
 # by Maxime Bui
 
+<!-- 
 ## Avant-propos
 Pour pleinement comprendre la démarche et l'intérêt de *simplex*, j'ai à coeur de vous partager son origine et sa philosophie.
 ### L'origine
-### Philosophie
+### Philosophie 
+-->
 
 ## Sommaire
 - [Remerciements](#remerciements)<br> Parce que rien n'aurait été possible sans eux.
@@ -11,11 +13,12 @@ Pour pleinement comprendre la démarche et l'intérêt de *simplex*, j'ai à coe
 - [Accompagnement des organisations](#acccompagnement-des-organisations)<br> Proposition de cadre méthodologique opérationnel, en réponse à ma vision de l'écologie des organisations
 - [Echos](#echos)<br>Les liens que je fais entre simplex et mes lectures ou l'actualité, qui illustrent certainement mes croyances.
 - [Contact](#contact)<br> Afin que nous puissions échanger ensemble sur le sujet.
+- [Inspiration](#inspiration)<br> mes sources d'inspiration diverses et variées.
 
 # Remerciements
 Ce contenu est un travail collectif (direct et indirect), fruit de nombreuses rencontres, échanges et expériences qui ont permis de construire et éprouver cette vision.
 - Ma femme, pour son soutien indéfectible.
-- Mes enfants, pour avoir "éprouver" le modèle en famille.
+- Mes enfants, pour avoir "éprouvé" le modèle en famille.
 - François, pour son amitié, son assertivité et son soutien.
 - Fabien, pour son courage et sa posture de dirigeant coach.
 
@@ -34,16 +37,211 @@ Une entreprise, une organisation est un système vivant avec ses organes, son sy
 - **Mouvement**<br>
 Indépendamment de son niveau de maturité, de conscience, de connaissance, de compétence ... chaque personne, équipe, organisation, dispose de ressources qu'elle peut mettre en oeuvre à des fins personnelles et collectives, pour peu que la vision soit suffisamment attrayante pour susciter l'envie et la motivation.
 
-L'humanité a développé et fait preuve de nombreuses compétences en relevant les défis qui se sont présentés à elle. Elle fait dace aujourd'hui à l'urgence climatique, résultante des dérives de notre "système", de la façon dont l'humanité consomme les ressources pour créer du progrès sous toutes ses formes.
+L'humanité a développé et fait preuve de nombreuses compétences en relevant les défis qui se sont présentés à elle. Elle fait dace aujourd'hui à l'urgence climatique, résultante des dérives de notre "système", de la façon dont l'humanité "pense" et consomme les ressources pour créer du progrès sous toutes ses formes.
 
-
-Nous prenons une approche [écologique](https://fr.wikipedia.org/wiki/%C3%89cologie) et [systémique](https://fr.wikipedia.org/wiki/Syst%C3%A9mique) des organisation et du monde professionnel au sens large.
-
-
-
-la posture *simplex* induite est l'explicitation d'un objectif par et pour l'organisation, l'exploration de sa réalité, l'identification de ses ressources, l'alignement de ses composantes pour mobiliser l'énergie afin de créer le mouvement et le progrès.
+Je milite pour une approche [écologique](https://fr.wikipedia.org/wiki/%C3%89cologie) et [systémique](https://fr.wikipedia.org/wiki/Syst%C3%A9mique) des organisation et du monde professionnel au sens large.
 
 # Ecologie des organisations
+Je considère l'évolution des organisations non comme un processus clairement défini mais comme une "dérive naturelle" ([enaction](https://fr.wikipedia.org/wiki/%C3%89naction#:~:text=La%20notion%20d'%C3%A9naction%20est,en%20interaction%20avec%20l'environnement.)), une pratique dynamique dans le temps : les personnes et les organisations auxquelles elles participent, évoluent constamment dans un processus d'auto-formation en vue de s'adapter et réagir au sein d'un environnement qui ne peut pas être compris entièrement ou dont l'évolution ne peut pas être prédite à l'avance.
+- Une organisation [vis](#vivre) dans un environnement en perpétuel changement.
+- Elle [évolue](#evoluer) dans son environnement en se comportant en fonction de sa perception du monde qui l'entoure.
+- Pour rester en vie, elle s'[adapte](#adapter) en identifiant ses alliés et des stratégies.
+- Elle exprime son potentiel et [grandit](#grandir) par changements successifs en se positionnant dans les conditions favorables à son développement. 
+- A chaque période de sa vie, elle [agit](#agir) pour concrétiser les opportunités qu'elle a identifiées selon le contexte du moment. 
+- Ses expériences, heureuses et malheureuses, lui permettent de comprendre les liens de causes à effet, d'[apprendre](#apprendre) en vue de répéter et de progresser, de gagner en maturité.
+- En développant son identité, une organisation assure l'adhésion de tout ce qui la constitue et [coexiste](#coexister) en interagissant avec ceux avec qui elle partage son écosystème : elle fait connaître et reconnaître son existence et sa valeur.
+
+<!-- <-- ---------------------------------------------------------------------------------  -->
+## Vivre
+Un organisation vis dans un environnement complexe en perpétuel changement. Elle [évolue](#evolution) dans l'[incertitude](#incertitude) et compose avec la [complexité](#complexité) de chaque situation. Comme son environnement, elle est en perpétuelle transformation.  
+
+Chaque transformation n'est pas une fin en soi : pour (sur)vivre, au-delà de se transformer, une organisation a besoin d'adopter une posture évolutive qui accepte et intègre les changements dans son fonctionnement, tout au long de sa vie.
+
+En prenant conscience et en acceptant l'impermanence (tout est sujet à évolution), une organisation cherche à se doter des capacités pour rester connectée à la réalité changeante, sentir les tendances et répondre en conséquence.
+
+### Evolution
+> "La conscience est la dernière et la plus tardive évolution de la vie organique, et par conséquent ce qu'il y a de moins accompli et de plus fragile en elle." Friedrich Nietzsche
+### Incertitude
+### Complexité
+### Outils
+
+### Synthèse
+- Une organisation est ce qu'elle est. Le fait qu'elle soit vivante aujourd'hui indique qu'elle répond à sa manière aux exigences du moment en apportant de la valeur.
+- Une organisation a besoin d'évoluer pour adapter ses capacités, son comportement par rapport à la réalité changeante afin de s'assurer de continuer à apporter le maximum de valeur. 
+- Aucun outil, méthodologie, processus, technique ... ne répond à ce besoin, dans ce contexte, à ce moment précis, en indiquant la marche à suivre, les étapes pour y arriver. Si réponse ou solution il y a, elles sont à chercher à l’intérieur de l'organisation, pas à l’extérieur.
+- Une organisation a besoin d'identifier et d'intégrer des changements régulièrement. Fort de ce constat, elle a besoin de mettre en place un organe, une routine, une hygiène pour les identifier de l'intérieur, les évaluer, et les intégrer si des solutions pertinentes et efficaces sont trouvées.
+
+En complément de son mode de fonctionnement actuel, une organisation a besoin de développer un "organe" pour : 
+- Sonder la réalité et sentir les tendances du moment,
+- Explorer des pistes pour y répondre, mener des expérimentations,
+- S'assurer de la pertinence et de la valeur de chaque pistes pour être en mesure de 
+- Décider d'intégrer un changement de manière pérenne dans mon organisation.
+
+L'hygiène professionnelle d'une organisation requiert de :
+- Se remettre en cause régulièrement pour confronter l'organisation à la réalité et envisager une évolution,
+- Accepter que les questions sont souvent plus importantes que les réponses.
+
+<!-- <-- ---------------------------------------------------------------------------------  -->
+## Evoluer
+Un manager influence son équipe et ses membres. Indépendamment de sa volonté, par sa façon d'être, sa [posture](#posture), il donne un cadre ou une "norme" comportementale à respecter. Son comportement dépend pour partie de ses [croyances](#croyances), et cela impacte le climat et la performance.
+
+La performance d'une organisation est liée à sa [culture](#maturité) et peut donc augmenter sa performance en la faisant évoluer. Même si aucun outil ni processus ne donne la solution, des étapes et des facteurs de succès sont identifiés pour accompagner mon organisation dans ce cheminement.
+
+Faire évoluer la culture d'une organisation implique de faire évoluer les [comportements](#comportement) individuels et collectifs. Le levier principal est d'établir un cadre, un "terrain de jeu" avec de la transparence, des repères et des limites, où les comportements souhaités sont encouragés, les autres découragés. Un facteur clé de réussite : "Montrer l’exemple" en respectant et en faisant respecter le cadre.
+
+### Posture
+### Croyances
+### Maturité
+### Comportement
+
+### Synthèse
+Une organisation dans son ensemble, comme chacun de ses membres individuellement, se comporte selon sa vision du monde. Le fonctionnement et la culture de l'organisation sont le reflet du fonctionnement et de la culture de chacun de ses membres, et réciproquement. Le climat et la performance d'une organisation dépendent pour partie de sa culture.
+
+Quelque soit son niveau de maturité actuel, dans la mesure où une organisation souhaite améliorer son niveau de performance en faisant évoluer sa culture, différentes étapes sont à envisager pour atteindre le niveau souhaité.<br>
+Développer la culture d'une organisation implique le développement de son autonomie en travaillant dans un premier temps sur l'axe de la motivation puis des compétences.
+
+Pour inciter l'évolution de comportement, un dirigeant ou un manager peut influer sur l'environnement dans lequel évoluent les collaborateurs, pas directement sur les collaborateurs eux-mêmes. En tant que partie prenante souhaitant influer sur son environnement, le dirigeant ou manager se doit d'être exemplaire par rapport aux comportements et aux changements souhaités.
+
+<!-- <-- ---------------------------------------------------------------------------------  -->
+## Adapter
+Pour continuer à jouer dans le [jeu infini](#posture), une organisation a besoin de d'adapter en permanence à l'ensemble des éléments changeant qui constituent de son environnement. 
+
+Elle a besoin d'identifier ses [alliés](#influence) (internes et externes) et définir des stratégies pour mener les actions les plus pertinentes de manière efficace : évaluer les [bénéfices](#forces) et [les facteurs de réussite](#résistance) de leur concrétisation. Elle envisage différentes hypothèses et valider leur valeur ajoutée avant de les [diffuser](#diffusion), de les intégrer dans ses muscles ou dans ses gênes.
+
+Pour être efficace et mener l'ensemble des actions de manière coordonnées, un [cadre](#cadre) est nécessaire, notamment pour [distribuer](#délégation) les rôles et responsabilités aux différents organes.
+
+### Influence
+### Forces
+### Résistance
+### Diffusion
+### Cadre
+### Délégation
+
+### Synthèse
+Afin d'avoir un impact sur son environnement et sa zone de préoccupation, une organisation se concentre sur sa zone d'influence en identifiant un premier cercle de confiance, alliés à l'ensemble de la démarche, quelque soit sa position et son rôle dans l'organisation existante.
+
+Au delà de faire la promotion d'un changement souhaité a priori, l'organisation se concentre sur les difficultés, les réticences qu'un tel changement peut susciter. En embarquant les parties prenantes à chaque évolution, elle identifie leurs potentiels freins (résistances) et construisent avec elles une vision suffisamment attrayante pour créer l'envie et par là, le mouvement.
+
+A l'issue de l'expérimentation et de la validation de la valeur ajoutée d'un changement, les données sont collectées afin de construire un argumentaire adapté à la diffusion de l'initiative auprès de la majorité.
+
+Un cadre (repères : rôles, responsabilités, visibilité, limites) est défini pour mener l'ensemble de ces expérimentations de manière coordonnée et procéder par étape afin de gagner en expérience et en maturité.
+
+<!-- <-- ---------------------------------------------------------------------------------  -->
+## Grandir
+Pour exprimer son [potentiel](#potentiel), une organisation [accompagne](#accompagnement) chacun des organes sollicités en ayant [confiance](#confiance) dans leurs capacités à identifier et mobiliser leurs ressources propres qui lui permettront d'augmenter leur niveau de performance, à leur rythme.
+
+Tous les organes, interdépendants, travaillent ensemble. Pour progresser et réaliser des mouvements fluides, il est primordial que chacun puisse [librement](#sécurité) :
+- Exprimer ses difficultés pour adapter le rythme et proposer d'éventuelles adaptations,
+- Apprendre de ses erreurs et celles des autres afin s'améliorer,
+- Proposer ses idées et trouver des stratégies innovantes.
+
+### Potentiel
+### Accompagnement
+### Confiance
+### Sécurité
+
+### Synthèse
+Le potentiel de chaque personne, et par conséquent collectif, est largement sous exprimé. Il existe un énorme réservoir de talents à exprimer et à mettre en musique dans des dynamiques collectives. Chacun possède un potentiel, des talents impossibles à détecter de manière analytique. Confiante dans la capacité individuelle et collective de ses associés, une organisation accompagne chacun d'eux dans la découverte et le développement de ses talents, étape par étape, constate et célèbre les progrès.
+
+Afin que chacun (personnes et équipes) se sentent en pleine sécurité et soit dans les conditions favorables au développement de son potentiel, un code de bonne conduite, charte déontologique est formalisée pour que chacun puisse se sentir en sécurité.
+
+<!-- <-- ---------------------------------------------------------------------------------  -->
+## Agir
+Se mettre en mouvement requiert une synchronisation et un [alignement](#alignement) de tous les organes sollicités. Chacun d'entre eux s'active dans la mesure où il trouve un intérêt à dépenser de l'énergie et à communiquer avec les autres parties prenantes. Chacun a sa [motivation](#motivation) propre, différente des autres, à contribuer à l'effort collectif.
+
+Pour synchroniser l'ensemble des actions, l'organisation a besoin d'avoir une idée d'ensemble, une [vision](#vision) du mouvement qu'elle veut réaliser, ce qui lui permet de coordonner et d'ajuster la contribution de chacun à ce but commun.
+
+Lorsqu'une organisation réalise :
+- Une action qu'elle connaît et qu'elle a l'habitude de faire, elle peut [mesurer](#mesure) la performance de chaque organe afin d'assurer la coordination et de la performance de l'ensemble.
+- Une initiative de nouveau mouvement, la procédure d'exécution est encore inconnue. Seules les principales étapes sont envisagées, et la progression est [mesurée](#mesure) au regard de ces étapes, qui s'ajustent au fur et à mesure où le mouvement est réalisé. En posture d'apprentissage, l'organisation apprend de chacune de ses erreurs pour progresser, ou détecte au plus tôt ses limites pour ajuster son ambition à la baisse.
+
+### Alignement
+### Motivation
+### Vision
+### Mesure
+
+### Synthèse
+Une vision d'ensemble est définie par l'organisation et partagée auprès de l'ensemble de ses contributeurs afin qu'ils puissent se l'approprier individuellement et collectivement en la déclinant à leur niveau de contribution.
+
+En posture de découverte et d'apprentissage (et non pas d'exécution d'un mouvement connu et maîtrisé), l'anticipation et la mesure de la performance est réalisée au travers de point d'étapes imaginés a priori.<BR>
+En constatant régulièrement le progrès (ou pas) par rapport à ces points d'étapes :
+- La coordination et la répartition des efforts peuvent être revues, 
+- Les points d'étapes peuvent être ajustés, à la baisse comme à la hausse,
+- L'initiative peut être :
+  - validée comme ayant atteint le niveau de maturité souhaité avant d'être intégrée durablement,
+  - arrêtée, limitant ainsi la dépense d'énergie constatée comme inefficace.
+
+<!-- <-- ---------------------------------------------------------------------------------  -->
+## Apprendre
+Apprendre est le propre d'un organisme vivant pour vivre et évoluer dans son environnement. Apprendre demande une posture associant volonté, humilité et courage car cela se passe principalement par des tentatives, des erreurs et des répétitions soutenues par une volonté de se mettre en mouvement pour atteindre un objectif : observer, penser, tenter, faire face à des échecs, tirer les leçons de chaque [erreur](#erreur) pour corriger sa tentative, puis réessayer ... et répéter. Finalement ancrer cet apprentissage en vue de pouvoir renouveler l'expérience, sans garantie de ne pas refaire des erreurs.
+
+Face à la complexité du mouvement à réaliser, nous découpons les actions et commençons avec les plus simples et qui apportent le plus de valeur, par [incréments](#incréments) successifs. 
+- Frotter les cordes avec un archet avant d'y poser les doigt et les faire glisser dessus.
+- Tenir un stylo dans sa main avant d'apprendre à dessiner des lettres et leur donner un sens.
+- Se tenir debout et mettre un pied devant l'autre avant de travailler son endurance en vue de courir un 100 mètres ou un marathon.
+- ...
+
+Apprendre et progresser demande une hygiène de travail, de la [régularité](#régularité). Les rituels mis en place  permettent de s'inscrire dans une posture d'apprentissage, de développer une régularité qui permet de constater le progrès, petit à petit, quitte à reculer de temps en temps. Pour progresser, mieux vaut s'entrainer 15 minutes par jour (soit 1h45 par semaine) que 2 heures par semaine en une seule fois.<br>
+Quand bien même l'organisation a compris et sait ce qu'elle veut faire, elle a besoin d'apprendre à coordonner l'ensemble des gestes pour y parvenir. En accumulant les petites erreurs et en les transformant en apprentissages :
+- Elle les intègre dans ses muscles, ancre au fur et à mesure des réflexes qu'elle saura exécuter sans effort du cerveau.
+- Elle apprend à gérer la frustration de chaque erreur et développe sa résilience. Elle gagne confiance en sa capacité à faire face à l'adversité.
+
+Une [stratégie](#stratégie) est mise en place pour l'acquisition progressive d'une nouvelle compétence ou nouveau comportement. Avant d'être en mesure de faire la démonstration dans la réalité "opérationnelle" de son environnement, différents espaces sécurisés sont mis en place pour réaliser les expérimentations.
+
+La préparation est la clé d'un apprentissage [efficace](#efficacité) :
+- Définir l'intérêt en identifiant ce que cet apprentissage me permettra de faire, déclenche la motivation et l'envie de se lancer,
+- Identifier mes besoins et les ressources nécessaires pour aller les chercher,
+- Imaginer les différentes étapes et les conditions favorables à chacune d'entre elles pour sécuriser et constater la progression.
+
+Une fois bien préparé, l'apprentissage peut commencer et la progression démarrer.
+
+### Erreur
+### Incréments
+### Régularité
+### Stratégie
+### Efficacité
+
+### Synthèse
+Pour développer le potentiel d'une organisation, elle a besoin d'être en posture d'apprentissage : 
+- Une planification et un séquençage régulier de son investissement en temps, incluant :
+- Des temps de réflexion pour observer ses pratiques, constater et célébrer le progrès : 
+  - Identifier les succès pour capitaliser et maintenir la motivation, gagner en confiance en soi,
+  - Identifier les erreurs et imaginer les actions pour les corriger.
+
+Pour accompagner l'apprentissage et pouvoir pleinement constater son impact dans la réalité, une organisation met en place un cadre, des espaces sécurisés où chaque personne et chaque équipe peut pleinement exprimer son potentiel, en toute confiance.
+
+La préparation permet d'assurer pour l'essentiel le succès d'une initiative et la puissance de ses apprentissages. Le lancement permet d'initier le mouvement dans le cadre préconisé ; reste à accompagner la progression en maintenant la posture d'apprentissage.
+
+<!-- <-- ---------------------------------------------------------------------------------  -->
+## Coexister
+Pour interagir avec son environnement, une organisation a besoin de "faire corps" en tant qu'être vivant à part entière, une et indivisible afin d'être connue et reconnue.
+
+Pour ce faire, elle s'interroge (régulièrement) sur son identité et met en place le cadre permettant à chaque personne de participer librement et consciemment à sa définition, son évolution, son appropriation et développer un sentiment d'[appartenance](#appartenance).
+
+La cohérence et la dynamique de l'ensemble repose sur la [communication](#communication) : la fluidité des informations pertinentes à circuler entre l'ensemble des parties prenantes, internes comme externes.
+
+### Appartenance
+### Communication
+
+### Synthèse
+Une organisation met en place les conditions favorables au développement du sentiment d'appartenance en proposant un cadre qui marque de façon stable les passages importants de la vie au travers de différentes célébrations. Ce cadre et ses rituels :
+- Donnent des repères dans l'espace et le temps, 
+- Structurent et rythment la vie de l'organisation,
+- Donnent de la profondeur et de l’importance aux différents moments qu'elle vit, 
+- Manifestent son identité et l’appartenance de chacun,
+- Permettent le développement de la mémoire, de la confiance en soi et dans les autres, le développement de compétences telles que les capacités d’anticipation, d’organisation de l’espace et du temps, et donc, vont permettre la transmission.
+
+Un rituel a pour missions de susciter, de maintenir l'intérêt et l'adhésion des participants. Dans le cadre défini, chaque rituel reste ouvert sur sa raison d'être et son formalisme ; il est revitalisé, revisité, réactualisé selon le contexte et l'actualité.
+
+Le cadre et les rituels ont une fonction sociale sécurisante, tranquillisante et contenante : la fonction de prédictibilité, d’anticipation et la fonction de transmission culturelle qui est nécessaire à la construction d'une identité.<br>
+Au delà de conventions sociales : ils nous fait humains, porteurs de dignité, de fierté et de considération de soi et d’autrui, en nous offrant le cadre pour exister ensemble et avec les autres d’une façon signifiante.
+
+L'identité et l'existence requiert un flux d'informations : 
+- Un système nerveux de circulation de l'information en interne, pour alimenter chaque personne, chaque équipe et reconnaître leurs existences et leurs participations à l'identité et à la vie de l'organisation,
+- Des organes spécialisés pour exprimer et communiquer de manière adaptée avec les acteurs externes à l'organisation, parties prenantes d'un écosystème partagé.
+
+## En une phrase
+Pour vivre, un système vivant tel qu'une organisation requiert une hygiène de vie pour rester en vie et se développer : connectée avec l'ensemble des parties prenantes de son écosystème, elle interagit avec elles en posture apprenante pour définir et valoriser son existence tout en participant à la survie du système global dans lequel elle évolue.
 
 # Accompagnement des organisations
 
@@ -203,3 +401,58 @@ Sauf que, si on veut les motiver, il faut comprendre comment fonctionne un être
 - [06 63 91 42 36](tel:0663914236)
 - [maxime.simplex.coach](https://maxime.simplex.coach)
 - [LinkedIn](https://www.linkedin.com/in/maximebui/)
+
+## Inspiration
+- [Simon Sinek](https://simonsinek.com/)
+  - [Commencer par pourquoi](https://simonsinek.com/books/start-with-why/)
+  - [Trouver son pourquoi](https://simonsinek.com/books/find-your-why/)
+  - [Pourquoi les vrais leaders se servent en dernier](https://simonsinek.com/books/leaders-eat-last/)
+  - [Le jeu infini](https://simonsinek.com/books/the-infinite-game/)
+  - [Together is better](https://simonsinek.com/books/together-is-better/)
+- Coaching
+  - [Le guide du coaching au service de la performance](https://www.dunod.com/sciences-humaines-et-sociales/guide-du-coaching-au-service-performance) - John Withmore
+  - [Le voyage du héros - Un éveil à soi-même, avec le coaching génératif](https://www.dunod.com/vie-pratique/voyage-du-heros-un-eveil-soi-meme-avec-coaching-generatif) - Stephen Gilligan et Robert Dilts
+  - Podcast [Un coach à la Une](https://www.yupikay.com/lemediadescoachs) - David Eugène Marion
+  - Web Série [Et tout le monde s'en fout](https://www.youtube.com/@Ettoutlemondesenfout)
+- Coaching d'organisations
+  - [La Transformation permanente](https://www.eyrolles.com/Entreprise/Livre/la-transformation-permanente-9782847698435/) - Patrick Dugois, Philippe Béon, Thierry Gauthron
+  - [Méthode de coaching d'organisation pour piloter le changement](https://www.editions-eyrolles.com/Livre/9782212570458/methode-de-coaching-d-organisation) - Olivier Devillard
+  - [Reinventing Organizations](https://www.reinventingorganizations.com/fr.html) - Frédéric Laloux
+- Technologie managériale
+  - [Holacraty](https://www.holacracy.org/) - HolacracyOne
+  - [Holacraty : la constitution 5.0](https://igipartners.com/constitution-holacracy-5.0) - Igi Partners
+  - [Holacraty : la bande dessinée](https://labdsurlholacracy.com/bande-dessinee-holacracy#page-18-19) - Bernard Marie Chiquet
+- Philosophie / Sociologie
+  - [De la brièveté de la vie](https://fr.wikipedia.org/wiki/De_la_bri%C3%A8vet%C3%A9_de_la_vie) - Sénèque
+  - [Le livre tibétain de la vie et de la mort](https://fr.wikipedia.org/wiki/Le_Livre_tib%C3%A9tain_de_la_vie_et_de_la_mort) - Sogyal Rinpoché
+  - [Effondrement - Comment les sociétés décident de leur disparition ou de leur survie](https://www.decitre.fr/livres/effondrement-9782070364305.html) - Jared Diamond
+  - [L'école de la liberté - Un modèle d'éducation autonome et démocratique](https://www.mamaeditions.com/catalogue/mutations/l-ecole-de-la-liberte) - Daniel Greenberg
+  - [Marc HALEVY - Tisserand de la compréhension du devenir](https://noetique.eu/)
+- Agile
+  - [Manifeste Agile](https://agilemanifesto.org/iso/fr/manifesto.html)
+  - [Agile People](https://agilepeople.com/)
+  - [Agile Business Consortium](https://www.agilebusiness.org/business-agility.html)
+  - [Management 3.0](https://management30.com/) - Jurgen Appello
+- Méthodes et outils
+  - [Game Storming : jouer pour innover](https://gamestorming.com/)
+  - [Comment leur dire ... La Process Communication](https://www.dunod.com/sciences-humaines-et-sociales/comment-leur-dire-process-communication-0) - Gérard Collignon
+  - [Le Permanagement](https://www.researchgate.net/publication/322641997_Le_Permanagement) - Guillaume Pérocheau
+  - [Lean Startup](https://fr.wikipedia.org/wiki/Lean_startup) - Eric Ries
+  - [Ikigaï](https://fr.wikipedia.org/wiki/Ikigai)
+  - [La force de l'optimisme](https://www.eyrolles.com/Loisirs/Livre/la-force-de-l-optimisme-9782266198066/) - Martin Seligman
+  - [Les groupes mastermind : accélérateurs de réussite](https://www.eyrolles.com/Entreprise/Livre/les-groupes-mastermind-accelerateurs-de-reussite-9791039702423/)
+  - [Ces moments qui comptent](https://www.editionsleduc.com/produit/1666/9791092928815/) - Chip et Dan Heath
+  - [Managing for Happiness: Games, Tools, and Practices to Motivate Any Team](https://management30.com/books/managing-for-happiness/) - Jurgen Appelo
+  - [Management 3.0 Practices](https://management30.com/practice/) 
+  - [L'homme aux deux cerveaux - Apprendre à penser différemment dans un monde nouveau](https://www.decitre.fr/livres/l-homme-aux-deux-cerveaux-9782221104620.html) - Daniel Pink
+  - [Le principe de Peter - Pourquoi tout employé tend à s'élever jusqu'à son niveau d'incompétence](https://www.decitre.fr/livres/le-principe-de-peter-9782290149379.html) - Laurence J. Peter, Raymond Hull
+- Manga & BD
+  - [One Piece](https://www.glenat.com/manga/series/one-piece) - Eiichiro Oda
+  - [La vie de Bouddha](https://www.editions-delcourt.fr/mangas/series/serie-la-vie-de-bouddha/album-la-vie-de-bouddha-edition-prestige-t01) - Osamu Tezuka
+  - [L'atelier des sorciers](https://www.pika.fr/serie/latelier-des-sorciers) - Kamome Shirahama
+  - [Magus of the library](http://www.ki-oon.com/mangas/tomes-1125-magus-of-the-library.html) - Mitsu Izumi
+  - [Beastars](http://www.ki-oon.com/mangas/tomes-1098-beastars.html) - Paru Itagaki
+  - [Faut pas prendre les cons pour des gens](https://www.fluideglacial.com/bd/reuze/faut_pas_prendre_les_cons_pour_des_gens/faut_pas_prendre_les_cons_pour_des_gens_-_tome_01/9782378780357) - Emmanuel Reuzé
+  - [Le traquemage](https://www.editions-delcourt.fr/bd/series/serie-traquemage/album-traquemage-integrale) - Wilfrid Lupano, Relom, Degreff
+  - [Le génie des alpages](https://www.dargaud.com/bd/le-genie-des-alpages/le-genie-des-alpages-integrale/le-genie-des-alpages-integrale-le-genie-des) - F'Murrr
+  - [Les vieux fourneaux](https://www.dargaud.com/bd/les-vieux-fourneaux/les-vieux-fourneaux) - Lupano, Cauuet, Maffre
