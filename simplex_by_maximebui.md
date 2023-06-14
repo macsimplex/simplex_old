@@ -265,6 +265,22 @@ Certaines de mes lectures et actualités font, selon moi, échos à *simplex* et
 - [Observatoire de la RSE](#observatoire-de-la-rse)
 - [Finance durable](#finance-durable)
 - [Le manager est un professionnel du désir de l'autre](#le-manager-est-un-professionnel-du-désir-de-l'autre)
+- [Economie participative](#economie-participartive)
+
+## Economie participative
+B corp - [lien](https://usca.bcorporation.net/fr/economie-participative/)
+> Les personnes et la planète doivent avoir une valeur égale, voire supérieure, aux profits à court terme. Dans ce nouveau paradigme, les entreprises qui aident toutes les communautés à guérir et à prospérer sont récompensées. Une économie participative, centrée sur les parties prenantes, est le triple résultat en action, un système dans lequel le bien-être humain et environnemental est essentiel.
+
+> Une économie participative exige des entreprises qu’elles créent de la valeur pour de multiples parties prenantes, notamment les travailleur.euse.s, les client.e.s, les communautés, l’environnement et les actionnaires. Elle permet aux dirigeant.e.s d’entreprise de prendre des décisions responsables et durables en tenant compte de l’impact qu’elles ont sur les parties prenantes, au même titre que la création de valeur financière. Cela se fait par des changements tangibles dans la gouvernance d’entreprise, les lois, les règlements et les incitations. Les investisseur.euse.s agissent en tant que propriétaires responsables en gérant leurs portefeuilles de manière à avoir un impact positif sur la société et l’environnement.  
+
+> Le changement de gouvernance et l’amélioration de la transparence sont des éléments fondamentaux de l’économie participative. Pour modifier le résultat des décisions afin que les entreprises opèrent de manière responsable et durable, nous devons changer les règles qui régissent ces décisions. La gouvernance des parties prenantes permet aux entreprises de s’engager et d’être tenues responsables de l’intégration de l’impact des parties prenantes dans leur processus décisionnel, de l’équilibre entre le profit et l’objectif, et de la création de valeur pour toutes les parties prenantes.
+
+> Nous savons qu’il ne suffit pas qu’un petit groupe d’individus s’engage volontairement à servir toutes les parties prenantes. L’action individuelle ne peut venir à bout de l’omniprésence structurelle et culturelle de la recherche du profit à tout prix. **Nous devons passer de la primauté de l’actionnaire au capitalisme participatif.**
+
+> Comment les entreprises peuvent agir sur les politiques<br>
+> CHANGEMENT CULTUREL<br>
+> Parlez aux investisseur.euse.s, employé.e.s, avocat.e.s, client.e.s et décideur.e.s politiques. Discutez de la manière dont une transition vers une économie centrée sur les parties prenantes peut créer de la valeur commerciale tout en aidant à résoudre d’importants problèmes sociétaux et environnementaux
+
 
 ## Piloter en période de turbulences
 Harvard Business Review France - Février-mars 2023 - [lien](https://www.prismashop.fr/vn/les-archives-de-hbr/VNHBR55.html)
